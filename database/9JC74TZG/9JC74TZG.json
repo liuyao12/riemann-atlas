@@ -1,0 +1,35 @@
+{
+    "id": "9JC74TZG",
+    "name": "continuous function --of a real variable",
+    "type": "definition",
+    "dependencies": {
+        "4E41D57C": "real numbers"
+    },
+    "super": {
+        "720SVHKZ": "continuous map --of metric spaces"
+    },
+    "definitions": {
+        "9JC74TZG_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "epsilon-delta definition"
+        },
+        "9JC74TZG_b": {
+            "language": "en",
+            "dependencies": {
+                "1KNNEI7L": "topological space"
+            },
+            "comment": "topological definition"
+        },
+        "9JC74TZG_c": {
+            "language": "en",
+            "dependencies": {
+                "1GY90UBE": "limit of a function"
+            },
+            "comment": "limit definition"
+        }
+    },
+    "equivalences": {
+    }
+}

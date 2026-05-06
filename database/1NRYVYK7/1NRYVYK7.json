@@ -1,0 +1,32 @@
+{
+    "id": "1NRYVYK7",
+    "name": "sign of a permutation",
+    "dependencies": {
+        "4P37BYJ5": "symmetric group"
+    },
+    "type": "definition",
+    "definitions": {
+        "1NRYVYK7_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "1NRYVYK7_b": {
+            "language": "en",
+            "dependencies": {
+                "4HNSRY62": "determinant"
+            },
+            "comment": ""
+        },
+        "1NRYVYK7_c": {
+            "language": "en",
+            "dependencies": {
+                "7Y0E21ED": "homomorphism of groups"
+            },
+            "comment": ""
+        },
+    },
+    "equivalences": {
+    }
+}

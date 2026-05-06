@@ -1,0 +1,1 @@
+Let $\mathcal{C}$ be a category, and $S$ a subset of $\mathrm{Obj}_{\mathcal{C}}$. The *full subcategory* of $S$ in the category $\mathcal{C}$ is a category with $S$ as the objects, and for any $x, y \in S$, the whole set $\mathrm{Mor}_{\mathcal{C}}(x, y)$ as the morphisms, with the same composition as in $\mathcal{C}$.

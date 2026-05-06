@@ -1,0 +1,33 @@
+{
+    "id": "WH6AVUDH",
+    "name": "",
+    "type": "theorem",
+    "dependencies": {
+        "1CNT5UVL": "integral of a continuous function",
+        "3CIWCZZS": "number pi"
+    },
+    "statements": {
+        "WH6AVUDH_1": {
+            "language": "none",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "WH6AVUDH_a": {
+            "language": "en",
+            "dependencies": {
+                "S8P9UI0H": "Fundamental Theorem of Calculus"
+            },
+            "comment": ""
+        },
+        "WH6AVUDH_b": {
+            "language": "en",
+            "dependencies": {
+                "ABCD": "change of variables"
+            },
+            "comment": ""
+        }
+    }
+}

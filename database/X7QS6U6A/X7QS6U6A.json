@@ -1,0 +1,26 @@
+{
+    "id": "X7QS6U6A",
+    "name": "",
+    "dependencies": {
+        "k": "0MSVL02A:division ring",
+        "2GM7AN7T": "vector space --over {k}",
+        "5QCVZP8Y": "basis"
+    },
+    "type": "theorem",
+    "statements": {
+        "X7QS6U6A_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "X7QS6U6A_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

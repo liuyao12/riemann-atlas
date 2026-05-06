@@ -1,0 +1,32 @@
+{
+    "id": "XR0HEIUR",
+    "name": "completeness of real numbers",
+    "type": "theorem",
+    "dependencies": {
+        "R": "4E41D57C:real numbers"
+    },
+    "statements": {
+        "XR0HEIUR_1": {
+            "language": "en",
+            "dependencies": {
+                "51BAGP0Y": "supremum in {R}"
+            },
+            "comment": "least upper bound"
+        },
+        "XR0HEIUR_2": {
+            "language": "en",
+            "dependencies": {
+                "51BAGP0Y": "infimum in {R}"
+            },
+            "comment": "greatest lower bound"
+        }
+    },
+    "proofs": {
+        "XR0HEIUR_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

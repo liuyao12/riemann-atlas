@@ -1,0 +1,27 @@
+{
+    "id": "2ACQNC9C",
+    "name": "projective n-space",
+    "dependencies": {
+        "n": "63AS5IGZ:natural number"
+    },
+    "template": "projective {n}-space",
+    "type": "definition",
+    "definitions": {
+        "2ACQNC9C_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "2ACQNC9C_b": {
+            "language": "en",
+            "dependencies": {
+                "k": "0MSVL02A:division ring",
+                "7VXYJVTU": "projective {n}-space --over {k}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

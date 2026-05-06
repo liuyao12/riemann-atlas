@@ -1,0 +1,35 @@
+{
+    "id": "ZSK5Y7GE",
+    "name": "Fundamental Theorem of Calculus",
+    "type": "theorem",
+    "dependencies": {
+        "9JC74TZG": "continuity",
+        "1CNT5UVL": "integral of a continuous function",
+        "98SB2AL0": "differentiability / derivative"
+    },
+    "statements": {
+        "ZSK5Y7GE_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "ZSK5Y7GE_2": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "formula": [
+        "\\frac{d}{dx} \\int_{a}{x} f(t)\\,dt = f(x)"
+    ],
+    "proofs": {
+        "ZSK5Y7GE_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "epsilon-delta proof; works over other fields like QQ"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": "8M6CAY2R",
+    "name": "matrix --over a set",
+    "dependencies": {
+        "S": "6WZ4C6XN:set",
+        "m": "63AS5IGZ:natural number",
+        "n": "63AS5IGZ:natural number"
+    },
+    "template": "{m}×{n} matrix over {S}"
+    "type": "definition",
+    "definitions": {
+        "8M6CAY2R_a": {
+            "language": "en",
+            "dependencies": {
+                "14V58VEZ": "n-tuple in {S}"
+            },
+            "comment": ""
+        },
+        "8M6CAY2R_b": {
+            "language": "en",
+            "dependencies": {
+                "14V58VEZ": "n-tuple in a set"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "id": "2NQXZL7L",
+    "name": "linear span",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space over {k}",
+        "S": "7XM484KI:subset --of {V}"
+    },
+    "template": "linear span of {S}",
+    "type": {
+        "0IKIFWPD": "subspace --of {V}"
+    },
+    "definitions": {
+        "2NQXZL7L_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "2NQXZL7L_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

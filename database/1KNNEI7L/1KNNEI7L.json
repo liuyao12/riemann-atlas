@@ -1,0 +1,29 @@
+{
+    "id": "1KNNEI7L",
+    "name": "topology / topological space",
+    "dependencies": {
+    },
+    "type": {
+        "6WZ4C6XN": "set"
+    },
+    "definitions": {
+        "1KNNEI7L_a": {
+            "language": "en",
+            "dependencies": {
+                "73G11RSY": "union of sets",
+                "55NEP6WB": "intersection of sets"
+            },
+            "comment": "by open sets"
+        },
+        "1KNNEI7L_b": {
+            "language": "en",
+            "dependencies": {
+                "73G11RSY": "union of sets",
+                "55NEP6WB": "intersection of sets"
+            },
+            "comment": "by closed sets"
+        }
+    },
+    "equivalences": {
+    }
+}

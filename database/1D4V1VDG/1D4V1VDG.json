@@ -1,0 +1,20 @@
+{
+    "id": "1D4V1VDG",
+    "name": "multiplicative group --of a ring",
+    "dependencies": {
+        "R": "7R2CT98Y:ring"
+    },
+    "type": {
+        "5PGIN6X2": "group"
+    },
+    "definitions": {
+        "1D4V1VDG_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "id": "4HNSRY62",
+    "name": "determinant of a matrix",
+    "dependencies": {
+        "n": "63AS5IGZ:natural number",
+        "k": "67IMWPW4:commutative ring",
+        "1JUES0F3": "matrix of order {n} --over {k}"
+    },
+    "type": {
+        "477289UH": "element of {k}"
+    },
+    "definitions": {
+        "4HNSRY62_a": {
+            "language": "en",
+            "dependencies": {
+                "4P37BYJ5": "symmetric group of order {n}",
+                "1NRYVYK7": "sign of a permutation"
+            },
+            "comment": ""
+        },
+        "4HNSRY62_a": {
+            "language": "en",
+            "dependencies": {
+                "03LC586U": "multilinear"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

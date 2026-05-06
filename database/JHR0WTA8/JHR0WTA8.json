@@ -1,0 +1,25 @@
+{
+    "id": "JHR0WTA8",
+    "name": "Taylor's theorem --with Lagrange remainder",
+    "type": "theorem",
+    "dependencies": {
+        "98SB2AL0": "differentiable / derivative"
+    },
+    "statements": {
+        "JHR0WTA8_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "JHR0WTA8_a": {
+            "language": "en",
+            "dependencies": {
+                "KJWDUNKD": "mean value theorem"
+            },
+            "comment": ""
+        }
+    }
+}        

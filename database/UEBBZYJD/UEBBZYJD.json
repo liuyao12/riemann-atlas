@@ -1,0 +1,32 @@
+{
+    "id": "UEBBZYJD",
+    "name": "Lie algebra of SL_n(K)",
+    "type": "theorem",
+    "dependencies": {
+        "175GH983": "Lie algebra --of a matrix group",
+        "1LTQ58M1": "trace of a matrix"
+    },
+    "statements": {
+        "UEBBZYJD_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "UEBBZYJD_a": {
+            "language": "en",
+            "dependencies": {
+                "FWDLB0GQ": "det(e^X) = e^tr(X)"
+            },
+            "comment": ""
+        },
+        "UEBBZYJD_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}            

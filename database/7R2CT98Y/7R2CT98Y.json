@@ -1,0 +1,20 @@
+{
+    "id": "7R2CT98Y",
+    "name": "ring",
+    "dependencies": {
+    },
+    "type": {
+        "R": "53J4N2KC:abelian group"
+    },
+    "definitions": {
+        "7R2CT98Y_a": {
+            "language": "en",
+            "dependencies": {
+                "16AXGFEV": "binary operation --on {R}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

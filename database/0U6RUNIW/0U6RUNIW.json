@@ -1,0 +1,21 @@
+{
+    "id": "0U6RUNIW",
+    "name": "inverse path",
+    "dependencies": {
+        "X": "topological space",
+        "4737FZPD": "path in {X}"
+    },
+    "type": {
+        "4737FZPD": "path in {X}"
+    },
+    "definition": {
+        "0U6RUNIW_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

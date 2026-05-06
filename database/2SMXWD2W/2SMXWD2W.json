@@ -1,0 +1,31 @@
+{
+    "id": "2SMXWD2W",
+    "name": "cohomology --of a topological space",
+    "dependencies": {
+        "X": "1KNNEI7L:topological space",
+        "R": "67IMWPW4:commutative ring",
+        "A": "8UBME7WQ:module --over {R}"
+    },
+    "template": "cohomology group of {X} over {A}",
+    "type": {
+        "8UBME7WQ": "module --over {R}"
+    },
+    "definitions": {
+        "2SMXWD2W_a": {
+            "language": "en",
+            "dependencies": {
+                "1GLXUU44": "quotient module",
+                "8KYIDPJ9": "kernel --of a homomorphism of modules",
+                "41P2BRMI": "image --of a homomorphism of modules",
+                "3TA01A9S": "homomorphism of modules over {R}",
+                "7P1XLPWT": "free module --over {R}",
+                "7S6XSJVY": "dual of a homomorphism of modules",
+                "8U8A9Z8E": "continuous map",
+                "9M97T5II": "n-simplex"
+            },
+            "comment": "singular cohomology"
+        }
+    },
+    "equivalences": {
+    }
+}

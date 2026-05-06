@@ -1,0 +1,32 @@
+{
+    "id": "1NSFWKTN",
+    "name": "matrix of a linear map",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "V": "3ULU55NP:finite-dimensional --vector space --over {k}",
+        "W": "3ULU55NP:finite-dimensional --vector space --over {k}",
+        "f": "5BDJ54RG:linear map {V}→{W}",
+        "B_V": "5QCVZP8Y:basis of {V}",
+        "B_W": "5QCVZP8Y:basis of {W}"
+    },
+    "type": {
+        "8M6CAY2R": "matrix --over {k}"
+    },
+    "definitions": {
+        "1NSFWKTN_a": {
+            "language": "en",
+            "dependencies": {
+                "X7QS6U6A": "components of a vector --in a basis"
+            },
+            "comment": ""
+        },
+        "1NSFWKTN_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

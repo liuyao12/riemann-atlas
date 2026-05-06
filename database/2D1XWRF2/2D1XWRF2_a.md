@@ -1,0 +1,1 @@
+The *winding number* of a closed piecewise $C^1$ path $\gamma: [a, b] \to \mathbb{R}^2$ around a point $p\in \mathbb{R}^2 \setminus \gamma$ is the number of times that $\gamma(t)$ goes around $p$ counterclockwise as $t$ goes from $a$ to $b$.

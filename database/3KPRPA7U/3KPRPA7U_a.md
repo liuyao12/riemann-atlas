@@ -1,0 +1,1 @@
+A *Cartan subalgebra* of a semisimple Lie algebra $\mathfrak{g}$ over the field $\mathbb{C}$ of complex numbers is a maximal abelian subalgebra $\mathfrak{h} \subset \mathfrak{g}$ such that $\mathrm{ad}_{X}: \mathfrak{g} \to \mathfrak{g}$, $Y \mapsto [X, Y]$ is semisimple for each $X \in \mathfrak{h}$.

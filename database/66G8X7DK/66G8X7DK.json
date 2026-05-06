@@ -1,0 +1,28 @@
+{
+    "id": "66G8X7DK",
+    "name": "integers modulo n",
+    "dependencies": {
+        "n": "63AS5IGZ:natural number"
+    },
+    "type": {
+        "67IMWPW4": "commutative ring"
+    },
+    "definitions": {
+        "66G8X7DK_a": {
+            "language": "en",
+            "dependencies": {
+                "Z": "0ZWU1HEL:integers",
+                "5KH8646Q": "equivalence relation --on {Z}"
+            }
+        },
+        "66G8X7DK_a": {
+            "language": "en",
+            "dependencies": {
+                "Z": "0ZWU1HEL:integers",
+                "485YWHBH": "quotient ring"
+            }
+        },
+    },
+    "equivalences": {
+    }
+}

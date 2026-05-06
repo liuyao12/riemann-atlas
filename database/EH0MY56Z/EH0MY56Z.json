@@ -1,0 +1,46 @@
+{
+    "id": "EH0MY56Z",
+    "name": "Fundamental Theorem of Algebra",
+    "dependencies": {
+        "C": "8A9M00AK:complex numbers",
+        "26S3FKEF": "polynomial over {C}"
+    },
+    "type": "theorem",
+    "statements": {
+        "EH0MY56Z_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "EH0MY56Z_2": {
+            "language": "en",
+            "dependencies": {
+                "6PSJQBH0": "irreducible polynomial --over {C}"
+            },
+            "comment": ""
+        },
+        "EH0MY56Z_3": {
+            "language": "en",
+            "dependencies": {
+                "84JBL4G3": "algebraically closed field"
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "EH0MY56Z_a": {
+            "language": "en",
+            "dependencies": {
+                "P0ERZM47": "factor theorem"
+            },
+            "comment": ""
+        },
+        "EH0MY56Z_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "topological proof"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "77TC3F5G",
+    "name": "semisimple representation --of a Lie algebra",
+    "dependencies": {
+        "F": "4BCNPPIX:field",
+        "g": "3H8N6TE0:Lie algebra --over {F}",
+        "k": "4I5IQU61:extension field of {F}"
+    },
+    "type": {
+        "6DTG5YM7": "representation --of {g} over {k}"
+    },
+    "definitions": {
+        "77TC3F5G_a": {
+            "language": "en",
+            "dependencies": {
+                "7RPDKE5L": "direct sum --of Lie algebra representations"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

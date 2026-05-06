@@ -1,0 +1,21 @@
+{
+    "id": "96HKJ000",
+    "name": "category of algebras --over a ring",
+    "dependencies": {
+        "S": "7R2CT98Y:ring"
+    },
+    "type": {
+        "7AQ7Q586": "category"
+    },
+    "definitions": {
+        "96HKJ000_a": {
+            "language": "en",
+            "dependencies": {
+                "9R7U60UZ": "category of rings"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

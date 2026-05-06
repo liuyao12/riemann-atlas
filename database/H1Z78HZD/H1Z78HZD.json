@@ -1,0 +1,29 @@
+{
+    "id": "H1Z78HZD",
+    "name": "homotopy classes of paths --form a groupoid",
+    "type": "theorem",
+    "dependencies": {
+        "1KNNEI7L": "topological space",
+        "5KH8646Q": "equivalence relation",
+        "3F1XDLBH": "homotopy",
+        "4737FZPD": "path",
+        "75BT39WI": "groupoid"
+    },
+    "statements": {
+        "H1Z78HZD_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "H1Z78HZD_a": {
+            "language": "en",
+            "dependencies": {
+                "0U6RUNIW": "inverse path"
+            },
+            "comment": ""
+        }
+    }
+}

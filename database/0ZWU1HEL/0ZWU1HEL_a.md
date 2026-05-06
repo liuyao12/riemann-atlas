@@ -1,0 +1,1 @@
+The natural numbers $\\{0, 1, 2, \ldots \\}$, together with the negative numbers $\\{-1, -2, \ldots \\}$, are known as *integers*. The set $\mathbb{Z}$ of integers is a group under addition, and a commutative ring under addition and multiplication.

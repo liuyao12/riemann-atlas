@@ -1,0 +1,21 @@
+{
+    "id": "15G7SJ9G",
+    "name": "simple Lie algebra --over complex numbers",
+    "type": "definition",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "g": "3H8N6TE0:Lie algebra --over {k}"
+    },
+    "statements": {
+        "15G7SJ9G_a": {
+            "language": "en",
+            "dependencies": {
+                "3EFEFC0N": "abelian Lie algebra",
+                "4VVA9RFS": "normal subalgebra"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

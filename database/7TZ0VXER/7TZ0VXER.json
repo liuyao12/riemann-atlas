@@ -1,0 +1,23 @@
+{
+    "id": "7TZ0VXER",
+    "name": "balanced product",
+    "dependencies": {
+        "7R2CT98Y": "ring",
+        "8UBME7WQ": "left module over {0}",
+        "8TZK9FIS": "right module over {0}",
+        "53J4N2KC": "abelian group"
+    },
+    "type": {
+        "4CID84AD": "map of {3}s"
+    },
+    "definitions": {
+        "7TZ0VXER_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}       

@@ -1,0 +1,20 @@
+{
+    "id": "6Y14D2JD",
+    "name": "convergence --of a series",
+    "dependencies": {
+        "k": "1QTR4G3Q:normed field",
+        "6Y9W1VMN": "series --in {k}"
+    },
+    "type": "definition",
+    "definitions": {
+        "6Y14D2JD_a": {
+            "language": "en",
+            "dependencies": {
+                "62D5M55S": "limit of a sequence --in {k}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

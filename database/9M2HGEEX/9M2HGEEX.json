@@ -1,0 +1,25 @@
+{
+    "id": "9M2HGEEX",
+    "name": "compact set --of Euclidean space",
+    "dependencies": {
+        "E": "4ZL3GXH5:Euclidean space"
+    },
+    "type": "definition",
+    "definitions": {
+        "9M2HGEEX_a": {
+            "language": "en",
+            "dependencies": {
+                "8WS9NG7U": "closed subset"
+            },
+            "comment": "closed and bounded"
+        },
+        "9M2HGEEX_b": {
+            "language": "en",
+            "dependencies": {
+                "3DJ3FN4S": "standard topology --of {E}",
+                "3M0FUVI4": "compactness in {E}"
+            },
+            "comment": ""
+        }
+    }
+}

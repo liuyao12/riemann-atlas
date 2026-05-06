@@ -1,0 +1,18 @@
+{
+    "id": "477289UH",
+    "name": "element of a set",
+    "dependencies": {
+        "6WZ4C6XN": "set"
+    },
+    "type": "definition",
+    "definitions": {
+        "477289UH_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

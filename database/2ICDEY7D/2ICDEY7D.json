@@ -1,0 +1,20 @@
+{
+    "id": "2ICDEY7D",
+    "name": "multiplicative set --of a ring",
+    "dependencies": {
+        "R": "67IMWPW4:commutative ring"
+    },
+    "type": {
+        "S": "7XM484KI:subset --of {R}"
+    },
+    "definitions": {
+        "2ICDEY7D_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

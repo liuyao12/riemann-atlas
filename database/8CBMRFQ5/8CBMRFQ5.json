@@ -1,0 +1,30 @@
+{
+    "id": "8CBMRFQ5",
+    "name": "category of abelian groups",
+    "dependencies": {
+    },
+    "type": {
+        "7AQ7Q586": "category"
+    },
+    "definitions": {
+        "8CBMRFQ5_a": {
+            "language": "en",
+            "dependencies": {
+                "53J4N2KC": "abelian group",
+                "7Y0E21ED": "homomorphism of groups"
+            },
+            "comment": ""
+        },
+        "8CBMRFQ5_b": {
+            "language": "en",
+            "dependencies": {
+                "Grp": "7642ZFGI:category of groups",
+                "Ab": "53J4N2KC:abelian groups",
+                "69PNP2YP": "full subcategory of {Grp} on {Ab}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

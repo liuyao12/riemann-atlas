@@ -1,0 +1,31 @@
+{
+    "id": "N4XIN5SW",
+    "name": "special linear group",
+    "dependencies": {
+        "k": "67IMWPW4:commutative ring",
+        "8M6CAY2R": "matrix --over {k}",
+        "4HNSRY62": "determinant of a matrix",
+        "7RG754YE": "matrix multiplication",
+        "5PGIN6X2": "group"
+    },
+    "type": "theorem",
+    "statements": {
+        "N4XIN5SW_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "N4XIN5SW_a": {
+            "language": "en",
+            "dependencies": {
+                "XY0S8JSF": "det(AB) = det(A)det(B)",
+                "0SXI6DVV": "identity matrix",
+                "0CLV6SL7": "inverse matrix"
+            },
+            "comment": ""
+        }
+    }
+}

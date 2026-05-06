@@ -1,0 +1,26 @@
+{
+    "id": "ZW4IZY8T",
+    "name": "associativity --of matrix multiplication",
+    "type": "theorem",
+    "dependencies": {
+        "k": "7R2CT98Y:ring",
+        "8M6CAY2R": "matrix --over {k}",
+        "7RG754YE": "matrix multiplication"
+    },
+    "statements": {
+        "ZW4IZY8T_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "ZW4IZY8T_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

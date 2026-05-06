@@ -1,0 +1,24 @@
+{
+    "id": "8M50VAGG",
+    "name": "derivative --of a function of a single variable",
+    "dependencies": {
+        "K": "1QTR4G3Q:normed field",
+        "U": "38Z73IC0:open subset --of {K}",
+        "f": "4CID84AD:function {X}\u2192{Y}"
+    },
+    "template": "derivative of {f}",
+    "type": {
+        "477289UH": "element of {K}"
+    },
+    "definitions": {
+        "8M50VAGG_a": {
+            "language": "en",
+            "dependencies": {
+                "1GY90UBE": "limit of a map --of metric spaces"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}       

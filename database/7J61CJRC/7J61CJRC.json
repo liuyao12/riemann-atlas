@@ -1,0 +1,22 @@
+{
+    "id": "7J61CJRC",
+    "name": "domain",
+    "dependencies": {
+        "E": "4ZL3GXH5:Euclidean space"
+    },
+    "type": {
+        "7XM484KI": "subset --of {E}"
+    },
+    "definitions": {
+        "7J61CJRC_a": {
+            "language": "en",
+            "dependencies": {
+                "38Z73IC0": "open subset --of {E}",
+                "3A7K1S0D": "connected"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

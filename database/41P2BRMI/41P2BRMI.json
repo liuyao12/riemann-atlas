@@ -1,0 +1,23 @@
+{
+    "id": "41P2BRMI",
+    "name": "image --of a homomorphism of modules",
+    "dependencies": {
+        "R": "ring",
+        "M": "module --over {R}",
+        "N": "module --over {R}",
+        "3TA01A9S": "homomorphism {M}→{N} of modules"
+    },
+    "type": {
+        "1DC1LBYT": "submodule of {N}"
+    },
+    "definitions": {
+        "41P2BRMI_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

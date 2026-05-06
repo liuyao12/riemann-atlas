@@ -1,0 +1,29 @@
+{
+    "id": "X0HE74DM",
+    "name": "",
+    "type": "theorem",
+    "dependencies": {
+        "1LTQ58M1": "trace of a matrix",
+        "5BDJ54RG": "linear map --of vector spaces",
+        "5QCVZP8Y": "basis --of a vector spaces"
+    },
+    "statements": {
+        "X0HE74DM_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "X0HE74DM_a": {
+            "language": "en",
+            "dependencies": {
+                "1NSFWKTN": "matrix of a linear map",
+                "ABCD": "change of basis",
+                "XPCLVNG4": "tr(AB) = tr(BA)"
+            },
+            "comment": ""
+        }
+    }
+}

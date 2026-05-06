@@ -1,0 +1,17 @@
+{
+    "id": "8W436KBY",
+    "name": "root system",
+    "dependencies": {
+    },
+    "type": "definition",
+    "definitions": {
+        "8W436KBY_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

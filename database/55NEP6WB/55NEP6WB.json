@@ -1,0 +1,21 @@
+{
+    "id": "55NEP6WB",
+    "name": "intersection of sets",
+    "dependencies": {
+        "6WZ4C6XN": "set"
+    },
+    "type": {
+        "6WZ4C6XN": "set"
+    },
+    "definitions": {
+        "55NEP6WB_a": {
+            "language": "en",
+            "dependencies": {
+                "477289UH": "element of a set"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

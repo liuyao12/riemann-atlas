@@ -1,0 +1,1 @@
+The *exponential function* $\exp: \mathbb{C} \to \mathbb{C}$ is the unique solution to the differential equation $f'(z) = f(z)$, with the initial condition $f(0) = 1$. The value $\exp(z)$ is often denoted $e^z$.

@@ -1,0 +1,36 @@
+{
+    "id": "GDJVUW0Y",
+    "name": "sum of angles formulas",
+    "dependencies": {
+        "6Q393G4T": "sine --of a real number",
+        "6N4I8SQI": "cosine --of a real number"
+    },
+    "statements": {
+        "GDJVUW0Y_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "GDJVUW0Y_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "geometry"
+        },
+        "GDJVUW0Y_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "matrices"
+        },
+        "GDJVUW0Y_c": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "complex numbers"
+        }
+    }
+}

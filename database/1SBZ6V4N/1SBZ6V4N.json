@@ -1,0 +1,21 @@
+{
+    "id": "1SBZ6V4N",
+    "name": "Lie algebra --of associative algebra",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "A": "482U6RA1:algebra --over {k}"
+    },
+    "type": {
+        "3H8N6TE0": "Lie algebra --over {k}"
+    },
+    "definitions": {
+        "1SBZ6V4N_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "3KPRPA7U",
+    "name": "Cartan subalgebra --of a complex semisimple Lie algebra",
+    "dependencies": {
+        "ℂ": "8A9M00AK:complex numbers",
+        "g": "1IYIAGFB:semisimple Lie algebra --over {C}"
+    },
+    "type": {
+        "774ENMU3": "subalgebra --of {g}"
+    },
+    "definitions": {
+        "3KPRPA7U_a": {
+            "language": "en",
+            "dependencies": {
+                "3EFEFC0N": "abelian Lie algebra",
+                "0X1W2BDY": "maximal",
+                "2KC0FK3Z": "adjoint representation of {g}",
+                "5P689B0Z": "semisimple linear map"
+            },
+            "comment": ""
+        },
+        "3KPRPA7U_b": {
+            "language": "en",
+            "dependencies": {
+                "4TNNS4QI": "Cartan subalgebra --of a Lie algebra"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

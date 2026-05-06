@@ -1,0 +1,1 @@
+The *fundamental group* $\pi_1(X, x_0)$ of a topological space $X$ at a point $x_0 \in X$ is the set of the homotopy classes of loops $\gamma: [0, 1] \to X$ based at $\gamma(0) = \gamma(1) = x_0$, under concatenation of loops.

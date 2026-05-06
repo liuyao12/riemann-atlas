@@ -1,0 +1,28 @@
+{
+    "id": "LTFI8WQJ",
+    "name": "theorem of highest weight",
+    "dependencies": {
+        "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
+        "h": "3KPRPA7U:Cartan subalgebra --of {g}",
+        "2D5F8K66": "root system of {g} --with respect to {h}",
+        "7S2ZH0MJ": "irreducible representation --of {g}",
+        "0BMIRCSD": "dominant integral weight --of {h}"
+    },
+    "type": "theorem",
+    "statements": {
+        "LTFI8WQJ_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "LTFI8WQJ_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

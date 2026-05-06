@@ -1,0 +1,28 @@
+{
+    "id": "3GIVL4Y8",
+    "name": "polynomial ring",
+    "dependencies": {
+        "R": "67IMWPW4:commutative ring"
+    },
+    "type": {
+        "67IMWPW4": "commutative ring",
+        "0NJKG2T0": "algebra --over {R}"
+    },
+    "definitions": {
+        "3GIVL4Y8_a": {
+            "language": "en",
+            "dependencies": {
+                "26S3FKEF": "polynomial over {R}"
+            },
+            "comment": ""
+        },
+        "3GIVL4Y8_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

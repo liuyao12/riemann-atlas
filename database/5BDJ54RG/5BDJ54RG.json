@@ -1,0 +1,29 @@
+{
+    "id": "5BDJ54RG",
+    "name": "linear map --of vector spaces",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space --over {k}",
+        "W": "2GM7AN7T:vector space --over {k}"
+    },
+    "type": {
+        "4CID84AD": "map {V}→{W}"
+    },
+    "definitions": {
+        "5BDJ54RG_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "5BDJ54RG_b": {
+            "language": "en",
+            "dependencies": {
+                "3TA01A9S": "homomorphism of modules --over {k}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

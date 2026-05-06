@@ -1,0 +1,22 @@
+{
+    "id": "73Q39Q74",
+    "name": "eigenvalue / eigenvector --of a matrix",
+    "dependencies": {
+        "k": "field",
+        "n": "natural number",
+        "8M6CAY2R": "matrix of order {n} --over {k}"
+    },
+    "type": {
+        "asdf": "element of {k}"
+    },
+    "definitions": {
+        "73Q39Q74_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

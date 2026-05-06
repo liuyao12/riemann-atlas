@@ -1,0 +1,1 @@
+Let $\mathcal{Ring}$ be the category of rings, and let $R$ be an object of $\mathcal{Ring}$. The category $\mathcal{Alg}_{R}$ of $R$-algebras is the category with morphisms $R \to S$ in $\mathcal{Ring}$ as the objects, and morphisms $S \to S'$ in $\mathcal{Ring}$ that commute with $R \to S$ and $R \to S'$ as the morphisms.

@@ -1,0 +1,21 @@
+{
+    "id": "4IAC0008",
+    "name": "finite subset --of a set",
+    "dependencies": {
+        "S": "6WZ4C6XN:set"
+    },
+    "type": {
+        "7XM484KI": "subset --of {S}"
+    },
+    "definitions": {
+        "4IAC0008": {
+            "language": "en",
+            "dependencies": {
+                "37YMGB24": "finite set"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

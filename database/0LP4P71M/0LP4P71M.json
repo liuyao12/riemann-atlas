@@ -1,0 +1,22 @@
+{
+    "id": "0LP4P71M",
+    "name": "localization at a prime ideal",
+    "dependencies": {
+        "R": "67IMWPW4:commutative ring",
+        "p": "3GNTTUR1:prime ideal of {R}"
+    },
+    "type": {
+        "1JK1WRZD": "local ring"
+    },
+    "definitions": {
+        "0LP4P71M_a": {
+            "language": "en",
+            "dependencies": {
+                "72LR9IQC": "localization of a ring"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

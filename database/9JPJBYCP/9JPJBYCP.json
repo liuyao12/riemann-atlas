@@ -1,0 +1,26 @@
+{
+    "id": "9JPJBYCP",
+    "name": "homomorphism of R-algebras",
+    "dependencies": {
+        "R": "7R2CT98Y:ring"
+    },
+    "type": {
+        "1139FRZX": "homomorphism of rings",
+        "3TA01A9S": "homomorphism of modules --over {R}"
+    },
+    "definitions": {
+        "9JPJBYCP_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "9JPJBYCP_b": {
+            "language": "en",
+            "dependencies": {
+                "Alg": "6B87KF3K:category of {R}-algebras",
+                "9E3ZA9F8": "morphism --in {Alg}"
+            },
+            "comment": ""
+        },
+    }

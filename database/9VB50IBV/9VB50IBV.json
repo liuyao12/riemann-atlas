@@ -1,0 +1,20 @@
+{
+    "id": "9VB50IBV",
+    "name": "sheaf on a topological space in a category",
+    "dependencies": {
+        "X": "1KNNEI7L:topological space",
+        "C": "7AQ7Q586:category"
+    },
+    "type": "definition",
+    "definitions": {
+        "9VB50IBV_a": {
+            "language": "en",
+            "dependencies": {
+                "6W16LKYH": "functor"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

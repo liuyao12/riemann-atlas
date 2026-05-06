@@ -1,0 +1,20 @@
+{
+    "id": "4LUFWJMP",
+    "name": "monoid",
+    "dependencies": {
+    },
+    "type": {
+        "M": "6WZ4C6XN:set"
+    },
+    "definitions": {
+        "4LUFWJMP_a": {
+            "language": "en",
+            "dependencies": {
+                "16AXGFEV": "binary operation --on {M}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

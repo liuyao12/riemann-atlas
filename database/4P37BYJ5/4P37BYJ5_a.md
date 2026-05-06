@@ -1,0 +1,1 @@
+The *symmetric group* on a finite set $X$ is the set of all bijective maps $\sigma: X \to X$, with composition. With the identification $X \cong \\{1, 2, \ldots, n\\}$, the symmetric group is often denoted $S_n$. Elements of $S_n$ are often called *permutations*.

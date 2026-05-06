@@ -1,0 +1,30 @@
+{
+    "id": "97QW2L5F",
+    "name": "homeomorphism",
+    "dependencies": {
+        "X": "1KNNEI7L:topological space",
+        "Y": "1KNNEI7L:topological space"
+    },
+    "type": {
+        "f": "4CID84AD:map {X}\u2192{Y}"
+    },
+    "definitions": {
+        "97QW2L5F_a": {
+            "language": "en",
+            "dependencies": {
+                "8U8A9Z8E": "continuous map --of topological spaces"
+            },
+            "comment": ""
+        },
+        "97QW2L5F_b": {
+            "language": "en",
+            "dependencies": {
+                "Top": "289L2UDR:category of topological spaces",
+                "46G4T8KT": "isomorphism --in {Top}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

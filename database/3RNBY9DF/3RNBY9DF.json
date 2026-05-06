@@ -1,0 +1,32 @@
+{
+    "id": "3RNBY9DF",
+    "name": "scheme over a commutative ring",
+    "dependencies": {
+        "R": "67IMWPW4:commutative ring",
+    },
+    "type": {
+        "015CQHZ7": "scheme"
+    },
+    "definitions": {
+        "3RNBY9DF_a": {
+            "language": "en",
+            "dependencies": {
+                "32L43CYA": "spectrum of {R}"
+            },
+            "comment": ""
+        },
+        "3RNBY9DF_b": {
+            "language": "en",
+            "dependencies": {
+                "Alg": "6B87KF3K:category of {R}-algebras",
+                "O_X": "9VB50IBV:sheaf on {X} in {Alg}",
+                "32L43CYA": "spectrum of a ring",
+                "5GF68309": "stalk --of {O_X}",
+                "1JK1WRZD": "local ring"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

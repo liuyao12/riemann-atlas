@@ -1,0 +1,31 @@
+{
+    "id": "2D5F8K66",
+    "name": "root system --of a complex semisimple Lie algebra",
+    "dependencies": {
+        "C": "8A9M00AK:complex numbers",
+        "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
+        "h": "3KPRPA7U:Cartan subalgebra of {g}"
+    },
+    "type": {
+        "8W436KBY": "root system"
+    },
+    "definitions": {
+        "2D5F8K66_a": {
+            "language": "en",
+            "dependencies": {
+                "9EVZZ8HR": "dual vector space of {h}"
+            },
+            "comment": ""
+        },
+        "2D5F8K66_b": {
+            "language": "en",
+            "dependencies": {
+                "V": "2KC0FK3Z:adjoint representation of {g}",
+                "521SC6P0": "weight of representation {V} --with respect to {h}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "44VYKHU7",
+    "name": "category of modules --over a ring",
+    "dependencies": {
+        "R": "67IMWPW4:commutative ring"
+    },
+    "template": "category of modules over {R}",
+    "type": {
+        "7AQ7Q586": "category"
+    },
+    "definitions": {
+        "44VYKHU7_a": {
+            "language": "en",
+            "dependencies": {
+                "8UBME7WQ": "module over {R}",
+                "3TA01A9S": "homomorphism of modules over {R}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

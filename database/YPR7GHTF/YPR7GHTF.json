@@ -1,0 +1,33 @@
+{
+    "id": "YPR7GHTF",
+    "name": "",
+    "type": "theorem",
+    "dependencies": {
+    },
+    "statements": {
+        "YPR7GHTF_1": {
+            "language": "en",
+            "dependencies": {
+                "8A9M00AK": "complex numbers",
+                "1234": "sin(z)",
+                "1DUN1Q71": "holomorphic / analytic function of a complex variable"
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "YPR7GHTF_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "YPR7GHTF_b": {
+            "language": "en",
+            "dependencies": {
+                "XF6GBLUB": "principle of analytic continuation"
+            },
+            "comment": ""
+        }
+    }
+}

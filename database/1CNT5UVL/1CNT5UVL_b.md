@@ -1,0 +1,1 @@
+The *integral* of a (piecewise) continuous function $f: [a, b] \to \mathbb{R}$ on a closed interval $[a, b] \subset \mathbb{R}$ is the supremum of the integrals of step functions over $[a, b]$ that are bounded by $f$ from above.

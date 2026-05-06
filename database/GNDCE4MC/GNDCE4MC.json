@@ -1,0 +1,26 @@
+{
+    "id": "GNDCE4MC",
+    "name": "Cauchy's integral formula",
+    "type": "theorem",
+    "dependencies": {
+        "1DUN1Q71": "holomorphic / analytic function",
+        "2D1XWRF2": "winding number"
+    },
+    "statements": {
+        "GNDCE4MC_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "GNDCE4MC_a": {
+            "language": "en",
+            "dependencies": {
+                "UW7HQDX4": "Cauchy's integral theorem"
+            },
+            "comment": ""
+        }
+    }
+}

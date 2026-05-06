@@ -1,0 +1,21 @@
+{
+    "id": "5CQ915WC",
+    "name": "elliptic curve",
+    "dependencies": {
+        "k": "4BCNPPIX:field"
+    },
+    "type": {
+        "asdf": "algebraic curve --over {k}"
+    },
+    "definitions": {
+        "5CQ915WC_a": {
+            "language": "en",
+            "dependencies": {
+                "1234": "projective plane curve",
+                "2345": "non-singular"
+            }
+        }
+    },
+    "equivalences": {
+    }
+}

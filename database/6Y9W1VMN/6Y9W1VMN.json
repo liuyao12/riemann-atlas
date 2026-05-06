@@ -1,0 +1,18 @@
+{
+    "id": "6Y9W1VMN",
+    "name": "series --in a commutative ring",
+    "dependencies": {
+        "R": "67IMWPW4:commutative ring"
+    },
+    "type": "defintion",
+    "definitions": {
+        "6Y9W1VMN_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

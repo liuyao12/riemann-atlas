@@ -1,0 +1,19 @@
+{
+    "id": "4GLNKBDV",
+    "name": "irreducible --in a ring",
+    "dependencies": {
+        "R": "7R2CT98Y:ring"
+    },
+    "type": "definition",
+    "definitions": {
+        "4GLNKBDV_a": {
+            "language": "en",
+            "dependencies": {
+                "1D4V1VDG": "multiplicative group --of {R}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

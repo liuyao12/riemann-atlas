@@ -1,0 +1,25 @@
+{
+    "id": "2D1XWRF2",
+    "name": "winding number",
+    "type": "definition",
+    "dependencies": {
+        "4737FZPD": "curve / path"
+    },
+    "definitions": {
+        "2D1XWRF2_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "2D1XWRF2_b": {
+            "language": "en",
+            "dependencies": {
+                "2N67288B": "integral of a complex function --over a path"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

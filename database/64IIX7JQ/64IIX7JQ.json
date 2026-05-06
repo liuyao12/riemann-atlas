@@ -1,0 +1,22 @@
+{
+    "id": "64IIX7JQ",
+    "name": "category of Lie algebras --over a field",
+    "dependencies": {
+        "k": "4BCNPPIX:field"
+    },
+    "type": {
+        "7AQ7Q586": "category"
+    },
+    "definitions": {
+        "64IIX7JQ_a": {
+            "language": "en",
+            "dependencies": {
+                "3H8N6TE0": "Lie algebra --over {k}",
+                "69BMUFN8": "homomorphism of Lie algebras"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

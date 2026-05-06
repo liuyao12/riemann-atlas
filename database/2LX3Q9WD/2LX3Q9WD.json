@@ -1,0 +1,30 @@
+{
+    "id": "2LX3Q9WD",
+    "name": "kernel of a morphism --in a category",
+    "dependencies": {
+        "C": "7AQ7Q586:category",
+        "A": "object of {C}",
+        "B": "object of {C}",
+        "phi": "morphism {A} {B}"
+    },
+    "type": {
+        "asdf": "subobject of {C}"
+    },
+    "definitions": {
+        "2LX3Q9WD_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "2LX3Q9WD_b": {
+            "language": "en",
+            "dependencies": {
+                "1234": "exactness"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

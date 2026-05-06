@@ -1,0 +1,20 @@
+{
+    "id": "7YQ2QQGH",
+    "name": "ordered field",
+    "dependencies": {
+    },
+    "type": {
+        "k": "4BCNPPIX:field",
+        "9ZPPEFGG": "total order --on {k}"
+    },
+    "definitions": {
+        "7YQ2QQGH_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

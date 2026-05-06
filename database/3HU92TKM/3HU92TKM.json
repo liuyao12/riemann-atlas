@@ -1,0 +1,32 @@
+{
+    "id": "3HU92TKM",
+    "name": "category of matrices",
+    "dependencies": {
+        "R": "67IMWPW4:commutative ring"
+    },
+    "type": {
+        "7AQ7Q586": "category"
+    },
+    "definitions": {
+        "3HU92TKM_a": {
+            "language": "en",
+            "dependencies": {
+                "7RG754YE": "matrix multiplication",
+                "ZW4IZY8T": "associativity --of matrix multiplication",
+                "0SXI6DVV": "identity matrix"
+            },
+            "comment": ""
+        },
+        "3HU92TKM_b": {
+            "language": "en",
+            "dependencies": {
+                "Mod_R": "44VYKHU7:category of modules over {R}",
+                "7P1XLPWT": "free module over {R}",
+                "69PNP2YP": "full subcategory of {Mod_R}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

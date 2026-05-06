@@ -1,0 +1,23 @@
+{
+    "id": "521SC6P0",
+    "name": "weight / weight space --of a Lie algebra representation",
+    "dependencies": {
+        "C": "8A9M00AK:complex numbers",
+        "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
+        "V": "6DTG5YM7:representation of {g} --over {C}",
+        "h": "3KPRPA7U:Cartan subalgebra of {g}"
+    },
+    "type": {
+        "9EVZZ8HR": "dual vector space of {h}"
+    },
+    "definitions": {
+        "521SC6P0_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

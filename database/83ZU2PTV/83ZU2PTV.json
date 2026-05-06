@@ -1,0 +1,30 @@
+{
+    "id": "83ZU2PTV",
+    "name": "derivative of a function of several variables",
+    "dependencies": {
+        "R": "4E41D57C:real numbers",
+        "U": "2G8ZNB7E:open set of Euclidean space",
+        "f": "4CID84AD:map {U}\u2192{R}"
+    },
+    "type": {
+    },
+    "definitions": {
+        "83ZU2PTV_a": {
+            "language": "en",
+            "dependencies": {
+                "5BDJ54RG": "linear map"
+            },
+            "comments": ""
+        },
+        "83ZU2PTV_b": {
+            "language": "en",
+            "dependencies": {
+                "98SB2AL0": "derivative --of a function of a single variable",
+                "720SVHKZ": "continuous function --of metric spaces"
+            },
+            "comments": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,1 @@
+A set $S$ is a *subset* of $T$ if every element of $S$ is a member of $T$, and is denoted $S \subseteq T$. If in addition $S$ is not equal to $T$ (there exists an element of $T$ that is not in $S$), then $S$ is said to be a *proper subset* of $T$, denoted $S \subsetneq T$ or sometimes $S \subset T$.

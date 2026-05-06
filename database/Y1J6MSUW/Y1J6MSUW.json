@@ -1,0 +1,25 @@
+{
+    "id": "Y1J6MSUW",
+    "name": "",
+    "type": "theorem",
+    "dependencies": {
+        "8A9M00AK": "complex numbers",
+        "4SUT68SF": "exponential of a complex number"
+    },
+    "statements": {
+        "Y1J6MSUW_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "Y1J6MSUW_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

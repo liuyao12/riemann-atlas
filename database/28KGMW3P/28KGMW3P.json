@@ -1,0 +1,20 @@
+{
+    "id": "28KGMW3P",
+    "name": "homotopy of loops",
+    "type": "definition",
+    "dependencies": {
+        "2IPQ6Q5N": "loop",
+        "1KNNEI7L": "topological space"
+    },
+    "definitions": {
+        "28KGMW3P_a": {
+            "language": "en",
+            "dependencies": {
+                "3F1XDLBH": "homotopy"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

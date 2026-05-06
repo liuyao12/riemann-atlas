@@ -1,0 +1,21 @@
+{
+    "id": "2N67288B",
+    "name": "integral of a complex function --over a path",
+    "type": "definition",
+    "dependencies": {
+        "8A9M00AK": "complex numbers",
+        "8U8A9Z8E": "continuous function",
+        "1LN0176U": "piecewise 𝘊¹ path"
+    },
+    "definitions": {
+        "2N67288B_a": {
+            "language": "en",
+            "dependencies": {
+                "1CNT5UVL": "integral of a continuous function --of a real variable"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

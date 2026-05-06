@@ -1,0 +1,30 @@
+{
+    "id": "7P1XLPWT",
+    "name": "free module --over a ring",
+    "dependencies": {
+        "R": "7R2CT98Y:ring",
+        "S": "6WZ4C6XN:set"
+    },
+    "template": "free module on {S} over {R}",
+    "type": {
+        "8UBME7WQ": "module over {R}"
+    },
+    "definitions": {
+        "7P1XLPWT_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "7P1XLPWT_b": {
+            "language": "en",
+            "dependencies": {
+                "Mod": "44VYKHU7:category of modules --over {R}",
+                "1BLAGBTU": "free object --in {Mod}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

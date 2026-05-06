@@ -1,0 +1,25 @@
+{
+    "id": "V6YJTQZE",
+    "name": "",
+    "type": "theorem",
+    "dependencies": {
+        "4SK5GQ9I": "Hermitian matrix",
+        "1Y3LK90K": "standard sesquilinear form"
+    },
+    "statements": {
+        "V6YJTQZE_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "V6YJTQZE_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

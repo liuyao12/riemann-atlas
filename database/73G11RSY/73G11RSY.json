@@ -1,0 +1,21 @@
+{
+    "id": "73G11RSY",
+    "name": "union of sets",
+    "dependencies": {
+        "6WZ4C6XN": "set"
+    },
+    "type": {
+        "6WZ4C6XN": "set"
+    },
+    "definitions": {
+        "73G11RSY_a": {
+            "language": "en",
+            "dependencies": {
+                "477289UH": "element of a set"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

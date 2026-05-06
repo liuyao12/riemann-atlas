@@ -1,0 +1,38 @@
+{
+    "id": "8RUBUE66",
+    "name": "tangent space --of a smooth manifold",
+    "dependencies": {
+        "n": "63AS5IGZ:natural number",
+        "X": "24CSICHB:smooth manifold",
+        "x": "477289UH:point of {X}"
+    },
+    "type": {
+        "3ULU55NP": "{n}-dimensional vector space --over {R}"
+    },
+    "definitions": {
+        "8RUBUE66_a": {
+            "language": "en",
+            "dependencies": {
+                "4737FZPD": "curve / path",
+                "5KH8646Q": "equivalence relation"
+            },
+            "comment": ""
+        },
+        "8RUBUE66_b": {
+            "language": "en",
+            "dependencies": {
+                "5BDJ54RG": "linear map --of vector spaces"
+            },
+            "comment": ""
+        },
+        "8RUBUE66_c": {
+            "language": "en",
+            "dependencies": {
+                "83ZU2PTV": "derivative --of a function of several variables"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

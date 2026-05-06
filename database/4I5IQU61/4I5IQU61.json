@@ -1,0 +1,27 @@
+{
+    "id": "4I5IQU61",
+    "name": "field extension",
+    "dependencies": {
+        "k": "4BCNPPIX:field"
+    },
+    "type": {
+        "4BCNPPIX": "field"
+    },
+    "definitions": {
+        "4I5IQU61_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "4I5IQU61_b": {
+            "language": "en",
+            "dependencies": {
+                "482U6RA1": "algebra --over {k}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

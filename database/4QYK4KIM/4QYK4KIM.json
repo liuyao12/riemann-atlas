@@ -1,0 +1,29 @@
+{
+    "id": "4QYK4KIM",
+    "name": "Lie algebra of a Lie group",
+    "dependencies": {
+        "R": "4E41D57C:real numbers",
+        "G": "3L40KKYW:real Lie group"
+    },
+    "type": {
+        "3H8N6TE0": "Lie algebra --over {R}"
+    },
+    "statements": {
+        "4QYK4KIM_a": {
+            "language": "en",
+            "dependencies": {
+                "8RUBUE66": "tangent space --of {G}"
+            },
+            "comment": ""
+        },
+        "4QYK4KIM_b": {
+            "language": "en",
+            "dependencies": {
+                "2MUQXU37": "vector field --on {G}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

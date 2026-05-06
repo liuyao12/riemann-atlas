@@ -1,0 +1,23 @@
+{
+    "id": "51BAGP0Y",
+    "name": "supremum / infimum",
+    "dependencies": {
+        "T": "6WZ4C6XN:set",
+        "9ZPPEFGG": "total order --on {T}",
+        "S": "7XM484KI:subset --of {T}"
+    },
+    "template": "supremum of {S}",
+    "type": {
+        "477289UH": "element of {T}"
+    },
+    "definitions": {
+        "51BAGP0Y_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

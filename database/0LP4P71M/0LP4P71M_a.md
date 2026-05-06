@@ -1,0 +1,1 @@
+Let $R$ be a commutative ring, and $\mathfrak{p} \subset R$ a prime ideal. The *localization* of $R$ at $\mathfrak{p}$, denoted $R_{\mathfrak{p}}$, is the localization with respect to the multiplicative set $R \setminus \mathfrak{p}$. It is a local ring with maximal ideal being the image of $\mathfrak{p}$ under the map $R \to R_{\mathfrak{p}}$.

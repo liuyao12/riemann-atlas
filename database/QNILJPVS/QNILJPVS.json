@@ -1,0 +1,19 @@
+{
+    "id": "QNILJPVS",
+    "name": "Lagrange's theorem",
+    "dependencies": {
+        "G": "9VVIHNHJ:finite group",
+        "H": "1IH0JM2A:subgroup of {G}"
+    },
+    "type": "theorem",
+    "statements": {
+        "QNILJPVS_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+    }
+}

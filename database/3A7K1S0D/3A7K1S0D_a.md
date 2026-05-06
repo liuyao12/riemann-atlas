@@ -1,0 +1,1 @@
+An open subset $U \subseteq \mathbb{R}^n$ of a Euclidean space is *connected* if it is path-connected, i.e., for any $x, y \in U$, there exists a (continuous) path $\gamma: [0, 1] \to U$ such that $\gamma(0) = x$ and $\gamma(1) = y$.

@@ -1,0 +1,31 @@
+{
+    "id": "7VXYJVTU",
+    "name": "projective space --over a division ring",
+    "dependencies": {
+        "k": "0MSVL02A：division ring",
+        "n": "63AS5IGZ:natural number"
+    },
+    "template": "projective {n}-space --over {k}",
+    "type": {
+        "2ACQNC9C": "projective {n}-space",
+        "8MZK0C77": "algebraic variety --over {k}",
+        "3RNBY9DF": "scheme --over {k}"
+    },
+    "definitions": {
+        "7VXYJVTU_a": {
+            "language": "en",
+            "dependencies": {
+                "0IKIFWPD": "subspace"
+            },
+            "comment": ""
+        },
+        "7VXYJVTU_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

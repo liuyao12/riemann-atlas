@@ -1,0 +1,32 @@
+{
+    "id": "26S3FKEF",
+    "name": "polynomial --over a ring",
+    "dependencies": {
+        "R": "67IMWPW4:commutative ring",
+        "n": "63AS5IGZ:natural number"
+    },
+    "type": "definition",
+    "definitions": {
+        "26S3FKEF_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "26S3FKEF_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "26S3FKEF_c": {
+            "language": "en",
+            "dependencies": {
+                "3GIVL4Y8": "polynomial ring"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "2NQXZL7L",
+    "name": "linear span --in a vector space",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space over {k}",
+        "S": "4IAC0008:finite subset of {V}"
+    },
+    "template": "linear span of {S} in {V}",
+    "type": {
+        "0IKIFWPD": "vector subspace of {V}"
+    },
+    "definitions": {
+        "2NQXZL7L_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "2NQXZL7L_b": {
+            "language": "en",
+            "dependencies": {
+                "2NQXZL7L": "linear span of {S}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "id": "7AQ7Q586",
+    "name": "category",
+    "dependencies": {
+        "object": "object",
+        "morphism": "morphism"
+    },
+    "template": "category of {object}s and {morphism}s",
+    "type": "definition",
+    "definitions": {
+        "7AQ7Q586_a": {
+            "language": "en",
+            "dependencies": {
+                "Obj": "6WZ4C6XN:set of {object}s",
+                "Mor": "6WZ4C6XN:set of {morphism}s",
+                "7CLVUDVP": "product --of sets",
+                "4CID84AD": "map --of sets"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

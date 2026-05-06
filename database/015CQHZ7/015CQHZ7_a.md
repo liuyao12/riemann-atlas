@@ -1,0 +1,1 @@
+A *scheme* is a locally ringed space $(X, \mathcal{O}_{X})$ such that for each $x \in X$, there is an open set $U \subseteq X$ containing $x$ such that $(U, \mathcal{O}_{X}|_{U})$ is isomorphic to the spectrum of some (commutative) ring $R$.

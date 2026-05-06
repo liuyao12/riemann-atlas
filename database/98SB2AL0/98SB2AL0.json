@@ -1,0 +1,41 @@
+{
+    "id": "98SB2AL0",
+    "name": "differentiability / derivative of a function --of a real variable",
+    "type": "definition",
+    "dependencies": {
+        "R": "4E41D57C:real numbers",
+        "I": "6NA8726A:interval",
+        "f": "4CID84AD:map {I}\u2192{R}"
+    },
+    "definitions": {
+        "98SB2AL0_a": {
+            "language": "en",
+            "dependencies": {
+                "1GY90UBE": "limit in {R}"
+            },
+            "comment": ""
+        },
+        "98SB2AL0_b": {
+            "language": "en",
+            "dependencies": {
+                "9JC74TZG": "continuity"
+            },
+            "comment": ""
+        },
+        "98SB2AL0_c": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "little o"
+        },
+        "98SB2AL0_d": {
+            "language": "en",
+            "dependencies": {
+                "8M50VAGG": "derivative of a function --of a single variable in a normed field"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

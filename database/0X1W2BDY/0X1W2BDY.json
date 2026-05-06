@@ -1,0 +1,19 @@
+{
+    "id": "0X1W2BDY",
+    "name": "maximal",
+    "dependencies": {
+        "S": "6WZ4C6XN:set",
+        "0XWSLPKQ": "partial order on {S}"
+    },
+    "type": "definition",
+    "definitions": {
+        "0X1W2BDY_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

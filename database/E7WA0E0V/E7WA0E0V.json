@@ -1,0 +1,32 @@
+{
+    "id": "E7WA0E0V",
+    "name": "Weyl's theorem --on complete reducibility",
+    "dependencies": {
+        "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers"
+    },
+    "type": "theorem",
+    "statements": {
+        "E7WA0E0V_1": {
+            "language": "en",
+            "dependencies": {
+                "77TC3F5G": "semisimple representation --of {g}"
+            },
+            "comment": ""
+        },
+        "E7WA0E0V_2": {
+            "language": "en",
+            "dependencies": {
+                "70Z23N31": "semisimple module --over a ring"
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "E7WA0E0V_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "Weyl's unitarian trick"
+        }
+    }
+}

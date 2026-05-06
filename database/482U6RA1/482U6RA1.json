@@ -1,0 +1,30 @@
+{
+    "id": "482U6RA1",
+    "name": "algebra --over a ring",
+    "dependencies": {
+        "R": "7R2CT98Y:ring"
+    },
+    "template": "algebra over {R}",
+    "type": {
+        "S": "7R2CT98Y:ring",
+        "8UBME7WQ": "module over {R}"
+    },
+    "definitions": {
+        "482U6RA1_a": {
+            "language": "en",
+            "dependencies": {
+                "03LC586U": "bilinear"
+            },
+            "comment": ""
+        },
+        "482U6RA1_b": {
+            "language": "en",
+            "dependencies": {
+                "1139FRZX": "homomorphism {R}→{S} of rings"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

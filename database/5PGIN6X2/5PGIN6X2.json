@@ -1,0 +1,42 @@
+{
+    "id": "5PGIN6X2",
+    "name": "group",
+    "dependencies": {
+    },
+    "type": {
+        "4LUFWJMP": "monoid",
+        "75BT39WI": "groupoid"
+    },
+    "definitions": {
+        "5PGIN6X2_a": {
+            "language": "en",
+            "dependencies": {
+                "G": "6WZ4C6XN:set",
+                "m": "16AXGFEV:binary operation --on {G}"
+            },
+            "comment": "abstract"
+        },
+        "5PGIN6X2_b": {
+            "language": "en",
+            "dependencies": {
+                "X": "6WZ4C6XN:set",
+                "3HLCRTQW": "bijective map {X}→{X}"
+            },
+            "comment": "as transformations on a set"
+        },
+        "5PGIN6X2_c": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "as a monoid"
+        },
+        "5PGIN6X2_d": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "as a groupoid"
+        }
+    },
+    "equivalences": {
+    }
+}

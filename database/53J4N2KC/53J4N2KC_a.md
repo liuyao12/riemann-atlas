@@ -1,0 +1,1 @@
+A group $(G, \cdot)$ is *abelian* if the binary operation $\cdot$ is commutative, i.e., $g \cdot h = h \cdot g$ for all $g, h \in G$. The operation in an abelian group is often referred to as *addition*, and is denoted additively, $(g, h) \mapsto g+h$.

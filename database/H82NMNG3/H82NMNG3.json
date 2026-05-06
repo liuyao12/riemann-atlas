@@ -1,0 +1,23 @@
+{
+    "id": "H82NMNG3",
+    "name": "Euler's identity",
+    "type": "theorem",
+    "dependencies": {
+        "4E41D57C": "real numbers",
+        "8A9M00AK": "complex numbers",
+        "4SUT68SF": "exponential a complex number",
+        "1234": "sine",
+        "2345": "cosine"
+    },
+    "statements": {
+        "H82NMNG3_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+    }
+}
+        

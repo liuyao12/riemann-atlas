@@ -1,0 +1,21 @@
+{
+    "id": "0BMIRCSD",
+    "name": "dominant integral weight",
+    "dependencies": {
+        "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
+        "h": "3KPRPA7U:Cartan subalgebra --of {g}"
+    },
+    "type": {
+        "0G633VZJ": "weight --of {g} with respect to {h}"
+    },
+    "definitions": {
+        "0BMIRCSD_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

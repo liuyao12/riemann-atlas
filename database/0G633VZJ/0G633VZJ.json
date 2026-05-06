@@ -1,0 +1,30 @@
+{
+    "id": "0G633VZJ",
+    "name": "weight --of a semisimple Lie algebra over complex numbers",
+    "dependencies": {
+        "C": "8A9M00AK:complex numbers",
+        "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
+        "h": "3KPRPA7U:Cartan subalgebra --of {g}"
+    },
+    "type": {
+        "9EVZZ8HR": "dual vector space of {h}"
+    },
+    "definitions": {
+        "0G633VZJ_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "0G633VZJ_b": {
+            "language": "en",
+            "dependencies": {
+                "6DTG5YM7": "representation of a Lie algebra",
+                "521SC6P0": "weight --of a Lie algebra representation"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

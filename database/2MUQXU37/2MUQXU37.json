@@ -1,0 +1,21 @@
+{
+    "id": "2MUQXU37",
+    "name": "vector field --on a smooth manifold",
+    "dependencies": {
+        "n": "63AS5IGZ:natural number",
+        "M": "24CSICHB:smooth {n}-manifold"
+    },
+    "type": {
+        "1234": "global section of a sheaf"
+    },
+    "definitions": {
+        "2MUQXU37_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

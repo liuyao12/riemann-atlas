@@ -1,0 +1,1 @@
+Let $\mathfrak{g}$ be a semisimple Lie algebra over the field $\mathbb{C}$ of complex numbers, and $\mathfrak{h}$ a Cartan subalgebra of $\mathfrak{g}$. An element of $\mathfrak{h}^*$ is called a *weight* (of $\mathfrak{g}$ with respect to $\mathfrak{h}$).

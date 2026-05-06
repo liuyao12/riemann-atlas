@@ -1,0 +1,20 @@
+{
+    "id": "84JBL4G3",
+    "name": "algebraically closed field",
+    "type": {
+        "k": "4BCNPPIX:field"
+    },
+    "dependencies": {
+    },
+    "definitions": {
+        "84JBL4G3_a": {
+            "language": "en",
+            "dependencies": {
+                "26S3FKEF": "polynomial --over {k}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

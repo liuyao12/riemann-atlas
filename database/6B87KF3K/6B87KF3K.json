@@ -1,0 +1,29 @@
+{
+    "id": "6B87KF3K",
+    "name": "category of R-algebras",
+    "dependencies": {
+        "R": "7R2CT98Y:ring"
+    },
+    "type": {
+        "7AQ7Q586": "category"
+    },
+    "definitions": {
+        "6B87KF3K_a": {
+            "language": "en",
+            "dependencies": {
+                "0NJKG2T0": "algebra --over {R}",
+                "9JPJBYCP": "homomorphism of {R}-algebras"
+            },
+            "comment": ""
+        },
+        "6B87KF3K_b": {
+            "language": "en",
+            "dependencies": {
+                "9R7U60UZ": "category of rings"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

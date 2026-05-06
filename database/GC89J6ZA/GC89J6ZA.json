@@ -1,0 +1,26 @@
+{
+    "id": "GC89J6ZA",
+    "name": "Lie algebra --of an associative algebra",
+    "type": "theorem",
+    "dependencies": {
+        "482U6RA1": "associative algebra",
+        "4BCNPPIX": "field",
+        "3H8N6TE0": "Lie algebra"
+    },
+    "statements": {
+        "GC89J6ZA_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "GC89J6ZA_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

@@ -1,0 +1,3 @@
+To check that it is a category, we see that the constant path $\gamma: [0, 1] \to X$, $\gamma(t) = x$ is the identity morphism $\mathrm{id}_x$ at $x$, and the composition of morphisms is given by concatenation of paths, namely for paths $\gamma_1: [0, 1] \to X$ from $x$ to $y$ and $\gamma_2: [1, 2] \to X$ from $y$ to $z$, we have a path $\gamma_1 \cdot \gamma_2: [0, 2] \to X$ from $x$ to $z$.
+
+To see that it is a groupoid, we need to show that every morphism $\gamma$ from $x$ to $y$ is an isomorphism. Indeed, we may take the inverse path $\gamma^{-1}(t) = \gamma(1-t)$ from $y$ to $x$, so that $\gamma \cdot \gamma^{-1} \sim \mathrm{id}_{x}$ and $\gamma^{-1} \cdot \gamma \sim \mathrm{id}_{y}$, where the homotopy is given by shrinking the loop to its base point.

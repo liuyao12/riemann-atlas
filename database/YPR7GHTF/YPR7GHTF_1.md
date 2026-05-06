@@ -1,0 +1,1 @@
+For any integer $n \geq 0$, the function $f(z) = z^n \sin(1/z)$ on $\mathbb{C}\setminus\\{0\\}$ can not be extended holomorphically to $z=0$. In other words, $\sin(1/z)$ has an essential singularity at $z=0$.

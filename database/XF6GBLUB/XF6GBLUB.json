@@ -1,0 +1,27 @@
+{
+    "id": "XF6GBLUB",
+    "name": "principle of analytic continuation",
+    "type": "theorem",
+    "dependencies": {
+        "8A9M00AK": "complex numbers",
+        "1DUN1Q71": "holomorphic function",
+        "9P5URE76": "accumulation point"
+    },
+    "statements": {
+        "XF6GBLUB_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "XF6GBLUB_a": {
+            "language": "en",
+            "dependencies": {
+                "S8YT4BY5": "Taylor's theorem"
+            },
+            "comment": ""
+        }
+    }
+}

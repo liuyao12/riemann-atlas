@@ -1,0 +1,23 @@
+{
+    "id": "6B2A4HQ9",
+    "name": "residue --of a meromorphic function",
+    "dependencies": {
+        "U": "7J61CJRC:domain --of the complex plane",
+        "f": "75CUJWK5:meromorphic function --on {U}",
+        "z_0": "point of {U}"
+    },
+    "template": "residue of {f} at {z_0}",
+    "type": {
+        "8A9M00AK": "complex numbers"
+    },
+    "definitions": {
+        "6B2A4HQ9": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

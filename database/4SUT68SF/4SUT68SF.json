@@ -1,0 +1,39 @@
+{
+    "id": "4SUT68SF",
+    "name": "exponential function of a complex variable",
+    "dependencies": {
+        "8A9M00AK": "complex numbers"
+    },
+    "type": {
+        "8A9M00AK": "complex numbers"
+    },
+    "definitions": {
+        "4SUT68SF_a": {
+            "language": "en",
+            "dependencies": {
+                "8B9KJ77W": "power series",
+                "6Y14D2JD": "convergence"
+            },
+            "comment": ""
+        },
+        "4SUT68SF_b": {
+            "language": "en",
+            "dependencies": {
+                "671ZFMDA": "exponential of a real number",
+                "asdf": "sine of a real number",
+                "sdfg": "cosine of a real number"
+            },
+            "comment": ""
+        },
+        "4SUT68SF_c": {
+            "language": "en",
+            "dependencies": {
+                "asdf": "solution to a differential equation"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
+    

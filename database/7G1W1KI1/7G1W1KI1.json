@@ -1,0 +1,20 @@
+{
+    "id": "7G1W1KI1",
+    "name": "quarternions",
+    "dependencies": {
+        "R": "4E41D57C:real numbers"
+    },
+    "type": {
+        "7XM6UZST": "division algebra --over {R}"
+    },
+    "definitions": {
+        "7G1W1KI1_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

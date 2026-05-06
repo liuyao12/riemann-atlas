@@ -1,0 +1,30 @@
+{
+    "id": "1DC1LBYT",
+    "name": "submodule --of a module",
+    "dependencies": {
+        "R": "7R2CT98Y:ring",
+        "M": "8UBME7WQ:module --over {R}"
+    },
+    "type": {
+        "8UBME7WQ": "module --over {R}"
+    },
+    "definitions": {
+        "1DC1LBYT_a": {
+            "language": "en",
+            "dependencies": {
+                "1IH0JM2A": "subgroup of {M}"
+            },
+            "comment": ""
+        },
+        "1DC1LBYT_b": {
+            "language": "en",
+            "dependencies": {
+                "Mod": "44VYKHU7:category of modules --over {R}",
+                "6JD5HWKL": "sub-object of {M} --in category {Mod}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

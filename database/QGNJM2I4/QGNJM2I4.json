@@ -1,0 +1,25 @@
+{
+    "id": "QGNJM2I4",
+    "name": "topology of metric space",
+    "type": "definition",
+    "dependencies": {
+        "6G2DYFBY": "metric space",
+        "1KNNEI7L": "topology"
+    },
+    "statements": {
+        "QGNJM2I4_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "QGNJM2I4_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

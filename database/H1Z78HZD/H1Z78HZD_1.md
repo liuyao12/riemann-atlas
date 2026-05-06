@@ -1,0 +1,1 @@
+Let $X$ be a topological space. Then the category with points in $X$ as the objects, and homotopy classes of paths from $x \in X$ to $y \in X$ as the morphisms from $x$ to $y$, is a groupoid, known as the fundamental groupoid $\Pi(X)$ of $X$.

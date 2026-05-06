@@ -1,0 +1,21 @@
+{
+    "id": "7642ZFGI",
+    "name": "category of groups",
+    "dependencies": {
+    },
+    "type": {
+        "7AQ7Q586": "category"
+    },
+    "definitions": {
+        "7642ZFGI_a": {
+            "language": "en",
+            "dependencies": {
+                "5PGIN6X2": "group",
+                "7Y0E21ED": "homomorphism of groups"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

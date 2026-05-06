@@ -1,0 +1,1 @@
+A *group* is a groupoid with a single object. By an *element* of the group is meant a morphism in the groupoid, and composition of the morphisms is known as *multiplication*, or the *group law*, of the group.

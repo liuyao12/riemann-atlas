@@ -1,0 +1,20 @@
+{
+    "id": "5GB2LJNL",
+    "name": "characteristic --of a field",
+    "dependencies": {
+        "4BCNPPIX": "field"
+    },
+    "type": {
+        "63AS5IGZ": "natural number"
+    },
+    "definitions": {
+        "5GB2LJNL_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

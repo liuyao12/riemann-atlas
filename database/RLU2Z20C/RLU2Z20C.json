@@ -1,0 +1,26 @@
+{
+    "id": "RLU2Z20C",
+    "name": "Fundamental Theorem of Algebra",
+    "type": "theorem",
+    "dependencies": {
+        "R": "4E41D57C:real numbers",
+        "26S3FKEF": "polynomial --over {R}"
+    },
+    "statements": {
+        "RLU2Z20C_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "RLU2Z20C_a": {
+            "language": "en",
+            "dependencies": {
+                "EH0MY56Z": "Fundamental Theorem of Algebra"
+            },
+            "comment": ""
+        }
+    }
+}

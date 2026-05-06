@@ -1,0 +1,35 @@
+{
+    "id": "LRH62TGJ",
+    "name": "",
+    "type": "theorem",
+    "dependencies": {
+        "4E41D57C": "real numbers",
+        "1CNT5UVL": "integral of a continuous function --of a real variable",
+        "3CIWCZZS": "number pi"
+    },
+    "statements": {
+        "LRH62TGJ_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "LRH62TGJ_a": {
+            "language": "en",
+            "dependencies": {
+                "ZSK5Y7GE": "Fundamental Theorem of Calculus"
+            },
+            "comment": ""
+        },
+        "LRH62TGJ_b": {
+            "language": "en",
+            "dependencies": {
+                "H82NMNG3": "Euler's identity",
+                "GCUZL9W8": "residue theorem"
+            },
+            "comment": ""
+        }
+    }
+}

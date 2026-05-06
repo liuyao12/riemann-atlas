@@ -1,0 +1,35 @@
+{
+    "id": "3GNTTUR1",
+    "name": "prime ideal",
+    "dependencies": {
+        "R": "67IMWPW4:commutative ring"
+    },
+    "type": {
+        "I": "5DPZ7F9Z:ideal of {R}"
+    },
+    "definitions": {
+        "3GNTTUR1_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "3GNTTUR1_b": {
+            "language": "en",
+            "dependencies": {
+                "485YWHBH": "quotient ring of {R} mod {I}",
+                "854XXMYM": "integral domain"
+            },
+            "comment": ""
+        },
+        "3GNTTUR1_c": {
+            "language": "en",
+            "dependencies": {
+                "2ICDEY7D": "multiplicative set of {R}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

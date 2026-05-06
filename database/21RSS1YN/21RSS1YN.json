@@ -1,0 +1,20 @@
+{
+    "id": "21RSS1YN",
+    "name": "congruence",
+    "dependencies": {
+        "n": "63AS5IGZ:natural number",
+        "a": "0ZWU1HEL:integer",
+        "b": "0ZWU1HEL:integer"
+    },
+    "type": "definition",
+    "definitions": {
+        "21RSS1YN_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

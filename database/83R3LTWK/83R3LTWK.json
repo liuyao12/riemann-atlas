@@ -1,0 +1,27 @@
+{
+    "id": "83R3LTWK",
+    "name": "injective map",
+    "dependencies": {
+        "X": "6WZ4C6XN:set",
+        "Y": "6WZ4C6XN:set"
+    },
+    "type": {
+        "f": "4CID84AD:map {X}\u2192{Y}"
+    },
+    "definitions": {
+        "83R3LTWK_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "83R3LTWK_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "id": "44U4VFWI",
+    "name": "initial / terminal object --in a category",
+    "dependencies": {
+        "C": "7AQ7Q586:category"
+    },
+    "type": {
+        "71ZFNGRI": "object --in {C}"
+    },
+    "definitions": {
+        "44U4VFWI_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

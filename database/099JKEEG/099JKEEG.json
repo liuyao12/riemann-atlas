@@ -1,0 +1,22 @@
+{
+    "id": "099JKEEG",
+    "name": "Coxeter group --on a vector space",
+    "dependencies": {
+        "R": "4E41D57C:real numbers",
+        "V": "2GM7AN7T:vector space --over {R}"
+    },
+    "type": {
+        "G": "9VVIHNHJ:finite group"
+    },
+    "definitions": {
+        "099JKEEG_a": {
+            "language": "en",
+            "dependencies": {
+                "4P80ZG3D": "general linear group --of {V}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

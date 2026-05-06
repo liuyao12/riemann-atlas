@@ -1,0 +1,23 @@
+{
+    "id": "8MZK0C77",
+    "name": "algebraic variety --over a field",
+    "dependencies": {
+        "k": "4BCNPPIX:field"
+    },
+    "type": {
+        "3RNBY9DF": "scheme --over {k}"
+    },
+    "definitions": {
+        "8MZK0C77_a": {
+            "language": "en",
+            "dependencies": {
+                "1234": "integral scheme",
+                "2345": "separated scheme",
+                "3456": "scheme of finite type"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

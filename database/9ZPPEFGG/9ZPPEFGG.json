@@ -1,0 +1,20 @@
+{
+    "id": "9ZPPEFGG",
+    "name": "total order",
+    "dependencies": {
+        "S": "6WZ4C6XN:set"
+    },
+    "type": {
+        "0XWSLPKQ": "partial order --on {S}"
+    },
+    "definitions": {
+        "9ZPPEFGG_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

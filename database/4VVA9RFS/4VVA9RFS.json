@@ -1,0 +1,20 @@
+{
+    "id": "4VVA9RFS",
+    "name": "normal subalgebra --of a Lie algebra",
+    "dependencies": {
+        "g": "3H8N6TE0:Lie algebra"
+    },
+    "type": {
+        "774ENMU3": "subalgebra --of {g}"
+    },
+    "definitions": {
+        "4VVA9RFS_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

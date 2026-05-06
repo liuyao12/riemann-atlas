@@ -1,0 +1,23 @@
+{
+    "id": "7E8HLA5V",
+    "name": "localization of a module",
+    "dependencies": {
+        "R": "67IMWPW4:commutative ring",
+        "M": "8UBME7WQ:module --over {R}",
+        "S": "2ICDEY7D:multiplicative set --of {R}"
+    },
+    "type": {
+        "8UBME7WQ": "module --over {R}"
+    },
+    "definitions": {
+        "7E8HLA5V_a": {
+            "language": "en",
+            "dependencies": {
+                "5KH8646Q": "equivalence relation"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

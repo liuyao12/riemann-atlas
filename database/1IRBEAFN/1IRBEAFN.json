@@ -1,0 +1,35 @@
+{
+    "id": "1IRBEAFN",
+    "name": "Lie algebra sl_n",
+    "dependencies": {
+        "n": "63AS5IGZ:natural number",
+        "k": "4BCNPPIX:field"
+    },
+    "template": "Lie algebra sl_{n} over {k}",
+    "type": {
+        "15G7SJ9G": "simple Lie algebra --over {k}"
+    },
+    "definitions": {
+        "1IRBEAFN_a": {
+            "language": "en",
+            "dependencies": {
+                "1JUES0F3": "matrix of order {n} --over {k}",
+                "1LTQ58M1": "trace",
+                "XPCLVNG4": "tr(AB) = tr(BA)",
+                "GC89J6ZA": "Lie algebra --of an associative algebra"
+            },
+            "comment": "works over any field or commutative ring"
+        },
+        "1IRBEAFN_b": {
+            "language": "en",
+            "dependencies": {
+                "28F9A81A": "algebraic group SL_n over {k}",
+                "1234": "Lie algebra of algebraic group"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+        "a<=>b": "UEBBZYJD"
+    }
+}

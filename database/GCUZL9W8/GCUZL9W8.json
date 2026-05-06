@@ -1,0 +1,29 @@
+{
+    "id": "GCUZL9W8",
+    "name": "residue theorem",
+    "type": "theorem",
+    "dependencies": {
+        "8A9M00AK": "complex numbers",
+        "75CUJWK5": "meromorphic function --of a complex variable",
+        "2N67288B": "integral of a complex function --along a path",
+        "6B2A4HQ9": "residue",
+        "2D1XWRF2": "winding number"
+    },
+    "statements": {
+        "GCUZL9W8_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "GCUZL9W8_a": {
+            "language": "en",
+            "dependencies": {
+                "UW7HQDX4": "Cauchy's integral theorem"
+            },
+            "comment": ""
+        }
+    }
+}

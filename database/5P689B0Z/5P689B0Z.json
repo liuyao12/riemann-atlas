@@ -1,0 +1,39 @@
+{
+    "id": "5P689B0Z",
+    "name": "semisimple linear map",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space --over {k}"
+    },
+    "type": {
+        "f": "93SVAXQP:endomorphism --of {V}"
+    },
+    "definitions": {
+        "5P689B0Z_a": {
+            "language": "en",
+            "dependencies": {
+                "0IKIFWPD": "subspace --of {V}",
+                "0NXHN36T": "direct sum --of vector subspaces"
+            },
+            "comment": ""
+        },
+        "5P689B0Z_b": {
+            "language": "en",
+            "dependencies": {
+                "5QCVZP8Y": "basis --of {V}",
+                "1NSFWKTN": "matrix of {f}"
+            },
+            "comment": ""
+        },
+        "5P689B0Z_c": {
+            "language": "en",
+            "dependencies": {
+                "3GIVL4Y8": "polynomial ring --over {k}",
+                "70Z23N31": "semisimple module --over a ring"
+            },
+            "comment": ""
+        },
+    },
+    "equivalences": {
+    }
+}

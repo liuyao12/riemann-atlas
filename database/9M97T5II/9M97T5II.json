@@ -1,0 +1,23 @@
+{
+    "id": "9M97T5II",
+    "name": "n-simplex",
+    "dependencies": {
+        "n": "natural number"
+    },
+    "type": {
+        "1KNNEI7L": "topological space"
+    },
+    "definitions": {
+        "9M97T5II_a": {
+            "language": "en",
+            "dependencies": {
+                "4ZL3GXH5": "Euclidean space",
+                "3DJ3FN4S": "standard topology --of Euclidean space",
+                "5FND0LD7": "subspace --of a topological space"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

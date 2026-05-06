@@ -1,0 +1,20 @@
+{
+    "id": "89S97K5T",
+    "name": "path-connectedness --of a topological space",
+    "dependencies": {
+    },
+    "type": {
+        "1KNNEI7L": "topological space"
+    },
+    "definitions": {
+        "89S97K5T_a": {
+            "language": "en",
+            "dependencies": {
+                "4737FZPD": "path"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id": "3L40KKYW",
+    "name": "Lie group",
+    "dependencies": {
+    },
+    "type": {
+        "24CSICHB": "smooth manifold",
+        "5PGIN6X2": "group"
+    },
+    "definitions": {
+        "3L40KKYW_a": {
+            "language": "en",
+            "dependencies": {
+                "1718FSGD": "smooth map"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

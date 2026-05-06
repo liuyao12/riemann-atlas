@@ -1,0 +1,37 @@
+{
+    "id": "1DUN1Q71",
+    "name": "holomorphic / analytic function --of a complex variable",
+    "dependencies": {
+        "U": "7J61CJRC:domain --of the complex plane",
+        "C": "8A9M00AK:complex numbers"
+    },
+    "type": {
+        "4CID84AD": "map {U}→{C}"
+    },
+    "definitions": {
+        "1DUN1Q71_a": {
+            "language": "en",
+            "dependencies": {
+                "3WYKN5SB": "differentiable function --of a complex variable"
+            },
+            "comment": ""
+        },
+        "1DUN1Q71_b": {
+            "language": "en",
+            "dependencies": {
+                "8B9KJ77W": "power series --in {C}",
+                "6Y14D2JD": "convergence"
+            },
+            "comment": "locally represented by a power series"
+        },
+        "1DUN1Q71_c": {
+            "language": "en",
+            "dependencies": {
+                "4567": "Cauchy-Riemann equations"
+            },
+            "comment": "satisfies the Cauchy-Riemann equation"
+        }
+    },
+    "equivalences": {
+    }
+}

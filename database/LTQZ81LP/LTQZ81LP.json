@@ -1,0 +1,23 @@
+{
+    "id": "LTQZ81LP",
+    "name": "BGG resolution",
+    "type": "theorem",
+    "dependencies": {
+        "C": "8A9M00AK:complex numbers",
+        "g": "1IYIAGFB:semisimple Lie algebra over complex numbers",
+        "h": "3KPRPA7U:Cartan subalgebra of {g}",
+        "2D5F8K66": "root system",
+        "7S2ZH0MJ": "irreducible representation of {g}"
+    },
+    "statements": {
+        "LTQZ81LP_1": {
+            "language": "en",
+            "dependencies": {
+                "8B1ZZEV0": "Verma module"
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+    }
+}

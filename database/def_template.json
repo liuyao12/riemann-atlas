@@ -1,0 +1,25 @@
+{
+    "id": "8A9M00AK",
+    "name": "complex numbers",
+    "dependencies": {
+        "4E41D57C": "real numbers"
+    },
+    "definitions": {
+        "8A9M00AK_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "as pairs of real numbers"
+        },
+        "8A9M00AK_b": {
+            "language": "en",
+            "dependencies": {
+                "1234": "polynomial ring",
+                "2345": "quotient ring"
+            },
+            "comment": "by field extension"
+        }
+    },
+    "equivalences": {
+    }
+}

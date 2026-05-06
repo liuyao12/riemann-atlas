@@ -1,0 +1,1 @@
+(Fundamental Theorem of Algebra) Let $p \in \mathbb{C}[x]$ be a non-constant polynomial with complex coefficients. Then $p$ has a (complex) root, i.e., there exists $z \in \mathbb{C}$ such that $p(z)=0$.

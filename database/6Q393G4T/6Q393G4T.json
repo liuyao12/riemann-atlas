@@ -1,0 +1,18 @@
+{
+    "id": "6Q393G4T",
+    "name": "sine --of a real number",
+    "dependencies": {
+        "4E41D57C": "real numbers"
+    },
+    "definitions": {
+        "6Q393G4T_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "geometry"
+        }
+    },
+    "equivalences": {
+    }
+}
+    

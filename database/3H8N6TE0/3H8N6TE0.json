@@ -1,0 +1,22 @@
+{
+    "id": "3H8N6TE0",
+    "name": "Lie algebra --over a ring",
+    "dependencies": {
+        "k": "67IMWPW4:commutative ring",
+    },
+    "type": {
+        "g": "2GM7AN7T:vector space --over {k}"
+    },
+    "definitions": {
+        "3H8N6TE0_a": {
+            "language": "en",
+            "dependencies": {
+                "16AXGFEV": "binary operation --on {g}",
+                "03LC586U": "bilinear"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "id": "3TA01A9S",
+    "name": "homomorphism of modules --over a ring",
+    "dependencies": {
+        "R": "67IMWPW4:ring",
+        "M": "8UBME7WQ:module over {R}",
+        "N": "8UBME7WQ:module over {R}"
+    },
+    "type": {
+        "4CID84AD": "map {M}→{N}"
+    },
+    "definitions": {
+        "3TA01A9S_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

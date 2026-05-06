@@ -1,0 +1,19 @@
+{
+    "id": "3WA9MHZS",
+    "name": "prime number",
+    "dependencies": {
+    },
+    "type": {
+        "63AS5IGZ": "natural number"
+    },
+    "definitions": {
+        "3WA9MHZS_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

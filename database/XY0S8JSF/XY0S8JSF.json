@@ -1,0 +1,28 @@
+{
+    "id": "XY0S8JSF",
+    "name": "det(AB) = det(A)det(B)",
+    "type": "theorem",
+    "dependencies": {
+        "k": "67IMWPW4:commutative ring",
+        "n": "63AS5IGZ:natural number",
+        "1JUES0F3": "matrix of order {n} --over {k}",
+        "4HNSRY62": "determinant",
+        "7RG754YE": "matrix multiplication"
+    },
+    "statements": {
+        "XY0S8JSF_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "XY0S8JSF_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

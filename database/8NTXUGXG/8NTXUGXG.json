@@ -1,0 +1,24 @@
+{
+    "id": "8NTXUGXG",
+    "name": "tensor product --of a right module with a left module",
+    "dependencies": {
+        "R": "7R2CT98Y:ring",
+        "N": "8UBME7WQ:left module --over {R}",
+        "M": "8TZK9FIS:right module --over {R}"
+    },
+    "type": {
+        "53J4N2KC": "abelian group"
+    },
+    "definitions": {
+        "8NTXUGXG_a": {
+            "language": "en",
+            "dependencies": {
+                "7TZ0VXER": "balanced product",
+                "7Y0E21ED": "homomorphism of abelian groups"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

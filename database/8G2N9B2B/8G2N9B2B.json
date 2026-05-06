@@ -1,0 +1,28 @@
+{
+    "id": "8G2N9B2B",
+    "name": "sheaf of rings --on a topological space",
+    "dependencies": {
+        "X": "1KNNEI7L:topological space"
+    },
+    "type": "definition",
+    "definitions": {
+        "8G2N9B2B_a": {
+            "language": "en",
+            "dependencies": {
+                "67IMWPW4": "commutative ring",
+                "1139FRZX": "homomorphism of rings"
+            },
+            "comment": ""
+        },
+        "8G2N9B2B_b": {
+            "language": "en",
+            "dependencies": {
+                "Ring": "9R7U60UZ:category of rings",
+                "9VB50IBV": "sheaf on {X} in {Ring}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

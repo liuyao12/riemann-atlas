@@ -1,0 +1,28 @@
+{
+    "id": "175GH983",
+    "name": "Lie algebra --of a matrix group",
+    "dependencies": {
+        "6VFZ3EAW": "matrix group"
+    },
+    "type": {
+        "3H8N6TE0": "Lie algebra"
+    },
+    "definitions": {
+        "175GH983_a": {
+            "language": "en",
+            "dependencies": {
+                "4VRQIJ31": "exponential of a matrix"
+            },
+            "comment": ""
+        },
+        "175GH983_b": {
+            "language": "en",
+            "dependencies": {
+                "4QYK4KIM": "Lie algebra --of a Lie group"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

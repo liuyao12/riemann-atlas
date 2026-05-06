@@ -1,0 +1,19 @@
+{
+    "id": "0RGLWPT8",
+    "name": "quotient object --in a category",
+    "type": "definition",
+    "dependencies": {
+        "C": "7AQ7Q586:category",
+        "A": "object of {C}"
+    },
+    "definitions": {
+        "0RGLWPT8_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

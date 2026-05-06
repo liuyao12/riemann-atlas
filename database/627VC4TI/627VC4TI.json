@@ -1,0 +1,20 @@
+{
+    "id": "627VC4TI",
+    "name": "Laurent series",
+    "dependencies": {
+        "C": "8A9M00AK:complex numbers"
+    },
+    "type": {
+        "8B9KJ77W": "power series --in {C}"
+    },
+    "definitions": {
+        "627VC4TI_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

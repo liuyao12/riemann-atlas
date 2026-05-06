@@ -1,0 +1,19 @@
+{
+    "id": "2D7X3VKT",
+    "name": "semiring",
+    "dependencies": {
+    },
+    "type": {
+        "4LUFWJMP": "monoid"
+    },
+    "definitions": {
+        "2D7X3VKT_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

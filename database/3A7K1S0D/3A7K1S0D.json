@@ -1,0 +1,29 @@
+{
+    "id": "3A7K1S0D",
+    "name": "connected open set --of Euclidean space",
+    "dependencies": {
+        "n": "63AS5IGZ:natural number",
+        "E": "4ZL3GXH5:Euclidean {n}-space"
+    },
+    "type": {
+        "2G8ZNB7E": "open subset --of {E}"
+    },
+    "definitions": {
+        "3A7K1S0D_a": {
+            "language": "en",
+            "dependencies": {
+                "89S97K5T": "path-connected"
+            },
+            "comment": ""
+        },
+        "3A7K1S0D_b": {
+            "language": "en",
+            "dependencies": {
+                "5S1U9Y71": "connected topological space"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

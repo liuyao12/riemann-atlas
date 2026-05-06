@@ -1,0 +1,30 @@
+{
+    "id": "0NXHN36T",
+    "name": "direct sum --of vector subspaces",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space --over {k}",
+        "V1": "0IKIFWPD:subspace --of {V}",
+        "V2": "0IKIFWPD:subspace --of {V}"
+    },
+    "type": {
+        "0IKIFWPD": "subspace --of {V}"
+    },
+    "definitions": {
+        "0NXHN36T_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "0NXHN36T_a": {
+            "language": "en",
+            "dependencies": {
+                "4L3L79QX": "direct sum --of vector spaces"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

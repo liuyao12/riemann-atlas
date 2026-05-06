@@ -1,0 +1,44 @@
+{
+    "id": "4E41D57C",
+    "name": "real numbers",
+    "dependencies": {
+    },
+    "type": {
+        "4BCNPPIX": "field",
+        "7YQ2QQGH": "ordered field"
+    },
+    "definitions": {
+        "4E41D57C_a": {
+            "language": "en",
+            "dependencies": {
+                "68VSQXWU": "sequence in a set"
+            },
+            "comment": "as decimal expansions"
+        },
+        "4E41D57C_b": {
+            "language": "en",
+            "dependencies": {
+                "Q": "2RRHV29K:rational numbers",
+                "7XM484KI": "subset of {Q}"
+            },
+            "comment": "Dedekind cuts"
+        },
+        "4E41D57C_c": {
+            "language": "en",
+            "dependencies": {
+                "Q": "2RRHV29K:rational numbers",
+                "0EG3ZRQD": "Cauchy sequence in {Q}",
+                "5KH8646Q": "equivalence relation"
+            },
+            "comment": "equivalence classes of Cauchy sequences"
+        },
+        "4E41D57C_d": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "real numbers as complete Archimedean ordered field"
+        }
+    },
+    "equivalences": {
+    }
+}

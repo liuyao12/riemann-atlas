@@ -1,0 +1,21 @@
+{
+    "id": "6JD5HWKL",
+    "name": "sub-object --in a category",
+    "dependencies": {
+        "C": "7AQ7Q586:category",
+        "A": "object of {C}"
+    },
+    "type": {
+        "asdf": "object of {C}"
+    },
+    "definitions": {
+        "6JD5HWKL_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

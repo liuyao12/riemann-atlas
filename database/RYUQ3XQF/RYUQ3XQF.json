@@ -1,0 +1,20 @@
+{
+    "id": "RYUQ3XQF",
+    "name": "",
+    "type": "theorem",
+    "dependencies": {
+    },
+    "statements": {
+        "RYUQ3XQF_1": {
+            "language": "en",
+            "dependencies": {
+                "62DKJFVQ": "character --of a Lie algebra representation",
+                "7RPDKE5L": "direct sum --of representations",
+                "2XSYP2D5": "tensor product --of representations"
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+    }
+}

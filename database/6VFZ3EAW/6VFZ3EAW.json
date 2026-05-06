@@ -1,0 +1,24 @@
+{
+    "id": "6VFZ3EAW",
+    "name": "matrix group",
+    "dependencies": {
+        "4E41D57C": "real numbers",
+        "8A9M00AK": "complex numbers"
+    },
+    "type": {
+        "3L40KKYW": "Lie group"
+    },
+    "statements": {
+        "6VFZ3EAW_a": {
+            "language": "en",
+            "dependencies": {
+                "2TQNZ7QF": "general linear group GL_n",
+                "1IH0JM2A": "subgroup",
+                "8WS9NG7U": "closed subset --of Euclidean space"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

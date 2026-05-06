@@ -1,0 +1,44 @@
+{
+    "id": "5QCVZP8Y",
+    "name": "basis --of a vector space",
+    "dependencies": {
+        "k": "0MSVL02A:division ring",
+        "V": "2GM7AN7T:vector space --over {k}"
+    },
+    "type": {
+        "asdf": "subset of {V}"
+    },
+    "definitions": {
+        "5QCVZP8Y_a": {
+            "language": "en",
+            "dependencies": {
+                "3B4QPTQD": "linear independence",
+                "0X1W2BDY": "maximal"
+            },
+            "comment": ""
+        },
+        "5QCVZP8Y_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "5QCVZP8Y_c": {
+            "language": "en",
+            "dependencies": {
+                "7P1XLPWT": "free module --over {k}"
+            },
+            "comment": ""
+        },
+        "5QCVZP8Y_d": {
+            "language": "en",
+            "dependencies": {
+                "3B4QPTQD": "linear independence",
+                "2NQXZL7L": "linear span in {V}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "VM488HS1",
+    "name": "operation on elliptic curve --is associative",
+    "type": "theorem",
+    "dependencies": {
+        "5CQ915WC": "elliptic curve"
+    },
+    "statements": {
+        "VM488HS1_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "VM488HS1_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "brute-force algebra"
+        },
+        "VM488HS1_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "geometry"
+        },
+        "VM488HS1_c": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "addition formula of elliptic functions"
+        }
+    }
+}

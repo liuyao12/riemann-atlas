@@ -1,0 +1,28 @@
+{
+    "id": "5X15KHEH",
+    "name": "homology --of a topological space",
+    "dependencies": {
+        "X": "1KNNEI7L:topological space",
+        "R": "67IMWPW4:commutative ring",
+        "A": "8UBME7WQ:module over {R}"
+    },
+    "type": {
+        "8UBME7WQ": "module over {R}"
+    },
+    "definitions": {
+        "5X15KHEH_a": {
+            "language": "en",
+            "dependencies": {
+                "9M97T5II": "n-simplex",
+                "8U8A9Z8E": "continuous map",
+                "7P1XLPWT": "free module --over {R}",
+                "8KYIDPJ9": "kernel",
+                "41P2BRMI": "image",
+                "1GLXUU44": "quotient module"
+            },
+            "comment": "singular homology"
+        }
+    },
+    "equivalences": {
+    }
+}

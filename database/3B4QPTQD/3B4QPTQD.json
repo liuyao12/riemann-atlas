@@ -1,0 +1,21 @@
+{
+    "id": "3B4QPTQD",
+    "name": "linear independence",
+    "dependencies": {
+        "k": "0MSVL02A:division ring",
+        "V": "2GM7AN7T:vector space --over {k}"
+    },
+    "type": {
+        "S": "7XM484KI:subset --of {V}"
+    },
+    "definitions": {
+        "3B4QPTQD_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "id": "9P5URE76",
+    "name": "accumulation point",
+    "dependencies": {
+        "X": "6G2DYFBY:metric space",
+        "S": "7XM484KI:subset --of {X}"
+    },
+    "type": {
+        "6G2DYFBY.point": "point of {X}"
+    },
+    "definitions": {
+        "9P5URE76_a": {
+            "language": "en",
+            "dependencies": {
+                "6G2AU6L4": "open ball --of {X}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

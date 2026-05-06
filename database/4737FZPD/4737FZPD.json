@@ -1,0 +1,23 @@
+{
+    "id": "4737FZPD",
+    "name": "curve / path --in a topological space",
+    "dependencies": {
+        "X": "1KNNEI7L:topological space"
+    },
+    "type": {
+        "5FND0LD7": "topological subspace --of {X}"
+    },
+    "definitions": {
+        "4737FZPD_a": {
+            "language": "en",
+            "dependencies": {
+                "6NA8726A": "interval",
+                "8U8A9Z8E": "continuous map",
+                "5KH8646Q": "equivalence relation"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

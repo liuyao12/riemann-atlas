@@ -1,0 +1,30 @@
+{
+    "id": "UW7HQDX4",
+    "name": "Cauchy's integral theorem",
+    "type": "theorem",
+    "dependencies": {
+        "U": "7J61CJRC:domain --of the complex plane",
+        "f": "1DUN1Q71:holomorphic functions --on {U}",
+        "2N67288B": "integral of a complex function --over a piecewise C^1 loop",
+        "28KGMW3P": "homotopy of loops"
+    },
+    "statements": {
+        "UW7HQDX4_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "formula": [
+        "\\int_\\gamma f(z)\\,dz = 0"
+    ],
+    "proofs": {
+        "UW7HQDX4_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

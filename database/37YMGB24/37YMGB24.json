@@ -1,0 +1,21 @@
+{
+    "id": "37YMGB24",
+    "name": "finite set",
+    "dependencies": {
+    },
+    "type": {
+        "6WZ4C6XN": "set"
+    },
+    "definitions": {
+        "37YMGB24_a": {
+            "language": "en",
+            "dependencies": {
+                "3HLCRTQW": "bijective map",
+                "63AS5IGZ": "natural number"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

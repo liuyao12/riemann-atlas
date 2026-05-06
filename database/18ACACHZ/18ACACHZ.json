@@ -1,0 +1,29 @@
+{
+    "id": "18ACACHZ",
+    "name": "group algebra",
+    "dependencies": {
+        "G": "5PGIN6X2:group",
+        "k": "4BCNPPIX:field"
+    },
+    "template": "group algebra of {G} over {k}"
+    "type": {
+        "482U6RA1": "algebra over {k}"
+    },
+    "definitions": {
+        "18ACACHZ_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "18ACACHZ_b": {
+            "language": "en",
+            "dependencies": {
+                "7P1XLPWT": "free module over {k}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

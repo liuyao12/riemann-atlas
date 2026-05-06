@@ -1,0 +1,38 @@
+{
+    "id": "6DTG5YM7",
+    "name": "representation of a Lie algebra",
+    "dependencies": {
+        "F": "4BCNPPIX:field",
+        "g": "3H8N6TE0:Lie algebra --over {F}",
+        "k": "4I5IQU61:field extension --of {F}"
+    },
+    "template": "representation of {g} over {k}",
+    "type": {
+        "2GM7AN7T": "vector space --over {k}"
+    },
+    "statements": {
+        "6DTG5YM7_a": {
+            "language": "en",
+            "dependencies": {
+                "69BMUFN8": "homomorphism of Lie algebras"
+            },
+            "comment": ""
+        },
+        "6DTG5YM7_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "6DTG5YM7_c": {
+            "language": "en",
+            "dependencies": {
+                "U": "7Z3IL1Y2:universal enveloping algebra of {g}",
+                "8UBME7WQ": "left module over {U}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

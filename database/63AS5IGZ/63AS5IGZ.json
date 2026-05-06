@@ -1,0 +1,32 @@
+{
+    "id": "63AS5IGZ",
+    "name": "natural numbers",
+    "dependencies": {
+    },
+    "type": {
+        "4LUFWJMP": "monoid",
+        "2D7X3VKT": "semiring"
+    },
+    "definitions": {
+        "63AS5IGZ_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "63AS5IGZ_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "Peano axioms"
+        },
+        "63AS5IGZ_c": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "cardinality of sets"
+        }
+    },
+    "equivalences": {
+    }
+}

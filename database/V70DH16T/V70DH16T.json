@@ -1,0 +1,26 @@
+{
+    "id": "V70DH16T",
+    "name": "",
+    "type": "theorem",
+    "dependencies": {
+        "7RG754YE": "matrix multiplication",
+        "6Y9W1VMN": "series",
+        "6Y14D2JD": "convergence"
+    },
+    "statements": {
+        "V70DH16T_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "V70DH16T_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}       

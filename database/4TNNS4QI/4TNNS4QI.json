@@ -1,0 +1,21 @@
+{
+    "id": "4TNNS4QI",
+    "name": "Cartan subalgebra --of a Lie algebra",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "g": "3H8N6TE0:Lie algebra --over {k}"
+    },
+    "type": {
+        "h": "774ENMU3:subalgebra --of {g}"
+    },
+    "definitions": {
+        "4TNNS4QI_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

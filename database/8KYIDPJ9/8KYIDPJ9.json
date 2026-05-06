@@ -1,0 +1,32 @@
+{
+    "id": "8KYIDPJ9",
+    "name": "kernel --of a homomorphism of modules --over a ring",
+    "dependencies": {
+        "R": "7R2CT98Y:ring",
+        "M": "8UBME7WQ:module --over {R}",
+        "N": "8UBME7WQ:module --over {R}",
+        "f": "3TA01A9S:homomorphism {M}→{N}"
+    },
+    "template": "kernel of {f}",
+    "type": {
+        "1DC1LBYT": "submodule --of {M}"
+    },
+    "definitions": {
+        "8KYIDPJ9_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "8KYIDPJ9_b": {
+            "language": "en",
+            "dependencies": {
+                "Mod": "44VYKHU7:category of modules over {R}",
+                "2LX3Q9WD": "kernel of {f} in {Mod}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

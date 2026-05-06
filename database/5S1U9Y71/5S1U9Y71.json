@@ -1,0 +1,19 @@
+{
+    "id": "5S1U9Y71",
+    "name": "connected topological space",
+    "dependencies": {
+    },
+    "type": {
+        "1KNNEI7L": "topological space"
+    },
+    "definitions": {
+        "5S1U9Y71_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

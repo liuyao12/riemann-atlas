@@ -1,0 +1,21 @@
+{
+    "id": "7Z3IL1Y2",
+    "name": "universal enveloping algebra --of a Lie algebra",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "g": "3H8N6TE0:Lie algebra --over {k}"
+    },
+    "type": {
+        "482U6RA1": "algebra over {k}"
+    },
+    "definitions": {
+        "7Z3IL1Y2_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

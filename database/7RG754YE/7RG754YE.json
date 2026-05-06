@@ -1,0 +1,31 @@
+{
+    "id": "7RG754YE",
+    "name": "matrix multiplication",
+    "dependencies": {
+        "R": "7R2CT98Y:ring",
+        "m": "natural number",
+        "n": "natural number",
+        "p": "natural number",
+        "A": "8M6CAY2R:{m}×{n} matrix --over {R}",
+        "B": "8M6CAY2R:{n}×{p} matrix --over {R}"
+    },
+    "type": {
+        "8M6CAY2R:{m}×{p} matrix --over {R}"
+    },
+    "statements": {
+        "7RG754YE_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "7RG754YE_b": {
+            "language": "en",
+            "dependencies": {
+                "5BDJ54RG": "linear map",
+                "1NSFWKTN": "matrix of a linear map"
+            },
+            "comment": ""
+        }
+    }
+}

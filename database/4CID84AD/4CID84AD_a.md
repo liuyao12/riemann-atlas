@@ -1,0 +1,1 @@
+A *map* $f: X \to Y$ of sets $X$ and $Y$ is a subset $G_f \subseteq X \times Y$ such that for every $x \in X$, there exists a unique $y \in Y$ (denoted $f(x)$) such that $(x, y) \in G$. The set $G_f = \\{(x, f(x)) \\; : \\; x \in X \\}$ is often called the *graph* of $f$.

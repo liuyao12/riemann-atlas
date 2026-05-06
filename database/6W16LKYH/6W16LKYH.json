@@ -1,0 +1,19 @@
+{
+    "id": "6W16LKYH",
+    "name": "functor",
+    "dependencies": {
+        "C": "7AQ7Q586:category",
+        "D": "7AQ7Q586:category"
+    },
+    "type": "definition",
+    "definitons": {
+        "6W16LKYH_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

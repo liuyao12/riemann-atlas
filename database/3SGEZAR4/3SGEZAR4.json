@@ -1,0 +1,22 @@
+{
+    "id": "3SGEZAR4",
+    "name": "restriction of scalars",
+    "dependencies": {
+        "R": "7R2CT98Y:ring",
+        "M": "8UBME7WQ:module --over {R}",
+        "S": "8UHL3T1V:subring --of {R}"
+    },
+    "type": {
+        "8UBME7WQ": "module --over {S}"
+    },
+    "definitions": {
+        "3SGEZAR4_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

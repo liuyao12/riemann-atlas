@@ -1,0 +1,27 @@
+{
+    "id": "DK5YNW6C",
+    "name": "division algebra over real numbers",
+    "dependencies": {
+    },
+    "type": "theorem",
+    "statements": {
+        "DK5YNW6C_1": {
+            "language": "en",
+            "dependencies": {
+                "R": "4E41D57C:real numbers",
+                "7XM6UZST": "division algebra --over {R}",
+                "C": "8A9M00AK:complex numbers",
+                "H": "7G1W1KI1:quaternions"
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "DK5YNW6C_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

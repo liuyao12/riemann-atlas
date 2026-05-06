@@ -1,0 +1,1 @@
+A *meromorphic* function on a domain $U \subseteq \mathbb{C}$ is a holomorphic function $f: U \setminus Z \to \mathbb{C}$ for a discrete set $Z \subset U$ such that $f$ has a pole at each point $z_0 \in Z$. One writes $f(z_0) = \infty$ for $z_0 \in Z$, and regards $f$ as a function from $U$ to $\hat{\mathbb{C}} = \mathbb{C} \cup \\{\infty\\}$.

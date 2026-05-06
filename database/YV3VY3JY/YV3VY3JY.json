@@ -1,0 +1,27 @@
+{
+    "id": "YV3VY3JY",
+    "name": "Stokes' theorem",
+    "type": "theorem",
+    "dependencies": {
+        "1234": "differential form",
+        "2345": "exterior differential",
+        "3456": "mainfold with boundary",
+        "4567": "integral of differential form"
+    },
+    "statements": {
+        "YV3VY3JY_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "YV3VY3JY_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

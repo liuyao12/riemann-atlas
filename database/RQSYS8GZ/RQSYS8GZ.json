@@ -1,0 +1,20 @@
+{
+    "id": "RQSYS8GZ",
+    "name": "module over a division ring is free",
+    "type": "theorem",
+    "dependencies": {
+        "0MSVL02A": "division ring"
+    },
+    "statements": {
+        "RQSYS8GZ_1": {
+            "language": "en",
+            "dependencies": {
+                "8UBME7WQ": "module --over {k}",
+                "7P1XLPWT": "free module --over {k}"
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+    }
+}

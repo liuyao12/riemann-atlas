@@ -1,0 +1,24 @@
+{
+    "id": "R8TLHPKX",
+    "name": "sl_2 triple of differential operators",
+    "dependencies": {
+        "1IRBEAFN": "Lie algebra sl_n"
+    },
+    "type": "theorem",
+    "statements": {
+        "R8TLHPKX_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "R8TLHPKX_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "direct computation"
+        }
+    }
+}

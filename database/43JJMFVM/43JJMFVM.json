@@ -1,0 +1,26 @@
+{
+    "id": "43JJMFVM",
+    "name": "p-adic numbers",
+    "dependencies": {
+        "p": "3WA9MHZS:prime number"
+    },
+    "type": {
+        "4BCNPPIX": "field"
+    },
+    "definitions": {
+        "43JJMFVM_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "43JJMFVM_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": "671ZFMDA",
+    "name": "exponential function --of a real variable",
+    "dependencies": {
+        "R": "4E41D57C:real numbers"
+    },
+    "type": {
+        "4CID84AD": "map {R}\u2192{R}"
+    },
+    "definitions": {
+        "671ZFMDA_a": {
+            "language": "en",
+            "dependencies": {
+                "1234": "inverse function",
+                "1CNT5UVL": "integral of a continuous function"
+            },
+            "comment": "inverse to log"
+        },
+        "671ZFMDA_b": {
+            "language": "en",
+            "dependencies": {
+                "8B9KJ77W": "power series",
+                "6Y14D2JD": "convergence in {R}"
+            },
+            "comment": "power series"
+        },
+        "671ZFMDA_c": {
+            "language": "en",
+            "dependencies": {
+                "ASDF": "existence and uniqueness --of solution to linear ODE"
+            },
+            "comment": "solution to f'=f"
+        },
+        "671ZFMDA_d": {
+            "language": "en",
+            "dependencies": {
+                "55S7L2VM": "number e",
+                "62D5M55S": "limit in {R}"
+            },
+            "comment": "repeated multiplication, extended to reals"
+        }
+    },
+    "equivalences": {
+    }
+}
+        

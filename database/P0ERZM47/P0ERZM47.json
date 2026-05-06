@@ -1,0 +1,24 @@
+{
+    "id": "P0ERZM47",
+    "name": "factor theorem",
+    "type": "theorem",
+    "dependencies": {
+        "3GIVL4Y8": "polynomial ring"
+    },
+    "statements": {
+        "P0ERZM47_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "P0ERZM47_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

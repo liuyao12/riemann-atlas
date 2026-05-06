@@ -1,0 +1,1 @@
+A *smooth* $n$-*manifold* is a subset $M$ of $\mathbb{R}^N$ such that for any point $p \in M$, there is a neighborhood $U \subset \mathbb{R}^N$ of $p$, an open subset $V \subset \mathbb{R}^n$, and a smooth (i.e., infinitely differentiable) injective map $\phi: V \to \mathbb{R}^N$ such that $U \cap M$ is the image of $V$ under $\phi$.

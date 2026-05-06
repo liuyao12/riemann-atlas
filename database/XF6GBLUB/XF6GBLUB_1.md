@@ -1,0 +1,1 @@
+Let $f: U \to \mathbb{C}$ be a holomorphic function on a domain $U\subseteq \mathbb{C}$, and suppose that $f$ vanishes on a sequence of distinct points $z_n \in U$, $n=1, 2, \ldots$, with an accumulation point $z_{\infty}$ which lies inside $U$. Then $f$ is identically zero.

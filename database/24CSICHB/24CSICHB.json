@@ -1,0 +1,37 @@
+{
+    "id": "24CSICHB",
+    "name": "smooth manifold",
+    "dependencies": {
+        "n": "63AS5IGZ:natural number"
+    },
+    "type": {
+        "4QZXI0AF": "topological manifold"
+    },
+    "definitions": {
+        "24CSICHB_a": {
+            "language": "en",
+            "dependencies": {
+                "83ZU2PTV": "differentiable"
+            },
+            "comment": ""
+        },
+        "24CSICHB_b": {
+            "language": "en",
+            "dependencies": {
+                "2G8ZNB7E": "open subset --of Euclidean space",
+                "83ZU2PTV": "differentiable"
+            },
+            "comment": ""
+        },
+        "24CSICHB_c": {
+            "language": "en",
+            "dependencies": {
+                "2G8ZNB7E": "open subset --of Euclidean space",
+                "83ZU2PTV": "differentiable"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

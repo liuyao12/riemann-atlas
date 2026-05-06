@@ -1,0 +1,29 @@
+{
+    "id": "UW49S1KS",
+    "name": "spectral theorem --for Hermitian matrix",
+    "type": "theorem",
+    "dependencies": {
+        "8A9M00AK": "complex numbers",
+        "4SK5GQ9I": "Hermitian matrix",
+        "73Q39Q74": "eigenvalue / eigenvector",
+        "1Y3LK90K": "standard sesquilinear form"
+    },
+    "statements": {
+        "UW49S1KS_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "UW49S1KS_a": {
+            "language": "en",
+            "dependencies": {
+                "SPUL8UCS": "Fundamental Theorem of Algebra",
+                "V6YJTQZE": "<Au,v>=<u,Av>"
+            },
+            "comment": ""
+        }
+    }
+}

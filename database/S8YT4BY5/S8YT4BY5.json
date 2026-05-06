@@ -1,0 +1,28 @@
+{
+    "id": "S8YT4BY5",
+    "name": "Taylor's theorem --for holomorphic functions",
+    "type": "theorem",
+    "dependencies": {
+        "U": "7J61CJRC:domain --of the complex plane",
+        "C": "8A9M00AK:complex numbers",
+        "f": "1DUN1Q71:holomorphic function {U}→{C}"
+    },
+    "statements": {
+        "S8YT4BY5_1": {
+            "language": "en",
+            "dependencies": {
+                "6Y14D2JD": "convergence of series"
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "S8YT4BY5_a": {
+            "language": "en",
+            "dependencies": {
+                "GNDCE4MC": "Cauchy's integral formula"
+            },
+            "comment": ""
+        }
+    }
+}

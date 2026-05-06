@@ -1,0 +1,22 @@
+{
+    "id": "0ZWU1HEL",
+    "name": "integers",
+    "dependencies": {
+        "63AS5IGZ": "natural numbers"
+    },
+    "type": {
+        "53J4N2KC": "abelian group",
+        "67IMWPW4": "commutative ring",
+        "854XXMYM": "integral domain"
+    },
+    "definitions": {
+        "0ZWU1HEL_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

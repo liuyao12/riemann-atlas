@@ -1,0 +1,23 @@
+{
+    "id": "0TRS03M6",
+    "name": "matrix algebra",
+    "type": "theorem",
+    "dependencies": {
+        "R": "7R2CT98Y:ring"
+    },
+    "type": {
+        "482U6RA1": "algebra --over {R}"
+    },
+    "definitions": {
+        "S63HRXXC_1": {
+            "language": "en",
+            "dependencies": {
+                "8M6CAY2R": "matrix --over {R}",
+                "7RG754YE": "matrix multiplication"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

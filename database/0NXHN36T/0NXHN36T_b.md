@@ -1,0 +1,1 @@
+Let $V_1$ and $V_2$ be subspaces of a vector space $V$ over a field $k$, and $V_1 \cap V_2 = \\{0\\}$. Then the *direct sum* of $V_1$ and $V_2$ is $V_1 \oplus V_2$ as (abstract) vector spaces, identified as a subspace of $V$ via $v_1 \oplus v_2 \mapsto v_1 + v_2$.

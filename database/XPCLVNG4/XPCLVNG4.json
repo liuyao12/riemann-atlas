@@ -1,0 +1,27 @@
+{
+    "id": "XPCLVNG4",
+    "name": "tr(AB) = tr(BA)",
+    "type": "theorem",
+    "dependencies": {
+        "k": "67IMWPW4:commutative ring",
+        "8M6CAY2R": "matrix --over {k}",
+        "1LTQ58M1": "trace of a matrix",
+        "7RG754YE": "matrix multiplication"
+    },
+    "statements": {
+        "XPCLVNG4_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "XPCLVNG4_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

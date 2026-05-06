@@ -1,0 +1,34 @@
+{
+    "id": "4QZXI0AF",
+    "name": "manifold",
+    "dependencies": {
+        "n": "natural number"
+    },
+    "type": {
+        "1KNNEI7L": "topological space",
+        "0FRYJCML": "locally ringed space"
+    },
+    "definitions": {
+        "4QZXI0AF_a": {
+            "lauguage": "en",
+            "dependencies": {
+                "1KNNEI7L": "topological space",
+                "1234": "Hausdorff",
+                "2345": "second countable",
+                "2G8ZNB7E": "open subset --of Euclidean {n}-space",
+                "97QW2L5F": "homeomorphism"
+            },
+            "comment": "abstract definition"
+        },
+        "4QZXI0AF_b": {
+            "language": "en",
+            "dependencies": {
+                "4ZL3GXH5": "Euclidean space",
+                "8U8A9Z8E": "continuous map --of topological spaces"
+            },
+            "comment": "submanifold of Euclidean space"
+        }
+    },
+    "equivalences": {
+    }
+}

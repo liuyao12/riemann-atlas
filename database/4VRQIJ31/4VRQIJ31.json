@@ -1,0 +1,24 @@
+{
+    "id": "4VRQIJ31",
+    "name": "exponential of a matrix",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "n": "63AS5IGZ:natural number",
+        "A": "1JUES0F3:matrix of order {n} --over {k}"
+    },
+    "type": {
+        "8M6CAY2R": "matrix --over {k}"
+    },
+    "definitions": {
+        "4VRQIJ31_a": {
+            "language": "en",
+            "dependencies": {
+                "7RG754YE": "matrix multiplication",
+                "6Y14D2JD": "convergence in {k}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

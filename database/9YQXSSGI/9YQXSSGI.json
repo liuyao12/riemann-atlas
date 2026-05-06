@@ -1,0 +1,22 @@
+{
+    "id": "9YQXSSGI",
+    "name": "Killing form --of a Lie algebra",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "g": "3H8N6TE0:Lie algebra --over {k}"
+    },
+    "type": {
+        "04D13XAF": "bilinear form --on {g}"
+    },
+    "definitions": {
+        "9YQXSSGI_a": {
+            "language": "en",
+            "dependencies": {
+                "1LTQ58M1": "trace of a matrix"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

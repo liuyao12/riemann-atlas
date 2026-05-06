@@ -1,0 +1,24 @@
+{
+    "id": "2PK3M30W",
+    "name": "composition of maps",
+    "dependencies": {
+        "A": "set",
+        "B": "set",
+        "C": "set",
+        "f": "4CID84AD:map {A} {B}",
+        "g": "4CID84AD:map {B} {C}"
+    },
+    "type": {
+        "4CID84AD": "map {A} {C}"
+    },
+    "definitions": {
+        "2PK3M30W_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

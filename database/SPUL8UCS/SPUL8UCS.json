@@ -1,0 +1,26 @@
+{
+    "id": "SPUL8UCS",
+    "name": "Fundamental Theorem of Algebra",
+    "dependencies": {
+        "C": "8A9M00AK:complex numbers",
+        "26S3FKEF": "polynomial --over {C}"
+    },
+    "type": "theorem",
+    "statements": {
+        "SPUL8UCS_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "SPUL8UCS_a": {
+            "language": "en",
+            "dependencies": {
+                "ESA986J5": "Liouville's theorem"
+            },
+            "comment": ""
+        }
+    }
+}

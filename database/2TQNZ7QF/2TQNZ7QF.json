@@ -1,0 +1,50 @@
+{
+    "id": "2TQNZ7QF",
+    "name": "general linear group GL_n",
+    "dependencies": {
+        "R": "7R2CT98Y:ring",
+        "n": "63AS5IGZ:natural number"
+    },
+    "template": "GL_{n}({R})"
+    "type": {
+        "5PGIN6X2": "group",
+        "1234": "algebraic group --over {R}"
+    },
+    "definitions": {
+        "2TQNZ7QF_a": {
+            "language": "en",
+            "dependencies": {
+                "0CLV6SL7": "invertible matrix of order {n} --over {R}",
+                "7RG754YE": "matrix multiplication"
+            },
+            "comment": ""
+        },
+        "2TQNZ7QF_b": {
+            "language": "en",
+            "dependencies": {
+                "1JUES0F3": "matrix of order {n} --over {R}",
+                "4HNSRY62": "determinant --of a matrix over {R}",
+                "7RG754YE": "matrix multiplication"
+            },
+            "comment": ""
+        },
+        "2TQNZ7QF_c": {
+            "language": "en",
+            "dependencies": {
+                "C": "3HU92TKM:category of matrices --over {R}",
+                "4CPNB8RQ": "automorphism group --in {C}"
+            },
+            "comment": ""
+        },
+        "2TQNZ7QF_d": {
+            "language": "en",
+            "dependencies": {
+                "M": "S63HRXXC:matrix algebra --of order {n} over {R}",
+                "1D4V1VDG": "multiplicative group --of {M}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

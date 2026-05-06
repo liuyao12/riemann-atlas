@@ -1,0 +1,29 @@
+{
+    "id": "Y3K6XPH9",
+    "name": "Poincaré duality",
+    "type": "definition",
+    "dependencies": {
+        "M": "4QZXI0AF:manifold",
+        "3M0FUVI4": "compact",
+        "3456": "orientation",
+        "A": "53J4N2KC:abelian group",
+        "5X15KHEH": "homology of {M} with coefficients in {A}",
+        "2SMXWD2W": "cohomology of {M} with coefficients in {A}"
+    },
+    "statements": {
+        "Y3K6XPH9_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "Y3K6XPH9_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

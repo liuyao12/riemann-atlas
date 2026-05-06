@@ -1,0 +1,20 @@
+{
+    "id": "9GN39VRH",
+    "name": "sesquilinear form",
+    "dependencies": {
+        "C": "8A9M00AK:complex numbers",
+        "V": "2GM7AN7T:vector space over {C}"
+    },
+    "type": "definition",
+    "definitions": {
+        "9GN39VRH_a": {
+            "language": "en",
+            "dependencies": {
+                "03LC586U": "bilinear"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

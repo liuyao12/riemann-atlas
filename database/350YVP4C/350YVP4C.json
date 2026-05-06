@@ -1,0 +1,22 @@
+{
+    "id": "350YVP4C",
+    "name": "Weyl group --of a semisimple Lie algebra --over complex numbers",
+    "dependencies": {
+        "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
+        "h": "3KPRPA7U:Cartan subalgebra --of {g}"
+    },
+    "type": {
+        "099JKEEG": "Coxeter group --on {h}"
+    },
+    "definitions": {
+        "350YVP4C_a": {
+            "language": "en",
+            "dependencies": {
+                "2D5F8K66": "root system --of {g}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

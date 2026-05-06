@@ -1,0 +1,20 @@
+{
+    "id": "1JK1WRZD",
+    "name": "local ring",
+    "dependencies": {
+    },
+    "type": {
+        "R": "67IMWPW4:commutative ring"
+    },
+    "definitions": {
+        "1JK1WRZD_a": {
+            "language": "en",
+            "dependencies": {
+                "55JKKYK3": "maximal ideal --of {R}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

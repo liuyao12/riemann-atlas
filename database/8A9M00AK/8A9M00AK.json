@@ -1,0 +1,30 @@
+{
+    "id": "8A9M00AK",
+    "name": "complex numbers",
+    "dependencies": {
+        "R": "4E41D57C:real numbers"
+    },
+    "type": {
+        "1QTR4G3Q": "normed field",
+        "482U6RA1": "algebra --over {R}",
+        "4ZL3GXH5": "Euclidean {2}-space"
+    },
+    "definitions": {
+        "8A9M00AK_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "as pairs of real numbers"
+        },
+        "8A9M00AK_b": {
+            "language": "en",
+            "dependencies": {
+                "R[x]": "3GIVL4Y8:polynomial ring --over {R}",
+                "485YWHBH": "quotient ring --of R[x]"
+            },
+            "comment": "by field extension"
+        }
+    },
+    "equivalences": {
+    }
+}

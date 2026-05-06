@@ -1,0 +1,28 @@
+{
+    "id": "3WYKN5SB",
+    "name": "complex differentiable",
+    "type": "definition",
+    "dependencies": {
+        "C": "8A9M00AK:complex numbers",
+        "U": "7J61CJRC:domain --of complex plane",
+        "f": "4CID84AD:function {U}\u2192{C}"
+    },
+    "definitions": {
+        "3WYKN5SB_a": {
+            "language": "en",
+            "dependencies": {
+                "1GY90UBE": "limit of {f}"
+            },
+            "comment": ""
+        },
+        "3WYKN5SB_b": {
+            "language": "en",
+            "dependencies": {
+                "8M50VAGG": "derivative of {f}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

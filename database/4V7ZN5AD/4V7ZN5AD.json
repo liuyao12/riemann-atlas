@@ -1,0 +1,19 @@
+{
+    "id": "4V7ZN5AD",
+    "name": "cardinal number",
+    "dependencies": {
+    },
+    "type": "definition",
+    "definitions": {
+        "4V7ZN5AD_a": {
+            "language": "en",
+            "dependencies": {
+                "6WZ4C6XN": "set",
+                "5KH8646Q": "equivalence relation"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

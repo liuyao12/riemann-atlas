@@ -1,0 +1,34 @@
+{
+    "id": "5DPZ7F9Z",
+    "name": "ideal --of a ring",
+    "dependencies": {
+        "R": "7R2CT98Y:ring"
+    },
+    "type": {
+        "7XM484KI": "subset --of {R}"
+    },
+    "definitions": {
+        "5DPZ7F9Z_a": {
+            "language": "en",
+            "dependencies": {
+                "1IH0JM2A": "subgroup --of {R}"
+            },
+            "comment": ""
+        },
+        "5DPZ7F9Z_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "5DPZ7F9Z_c": {
+            "language": "en",
+            "dependencies": {
+                "1DC1LBYT": "submodule --of {R} over {R}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "0C3M18RE",
+    "name": "coproduct in a category",
+    "dependencies": {
+        "7AQ7Q586": "category"
+    },
+    "type": "definition",
+    "definitions": {
+        "0C3M18RE_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

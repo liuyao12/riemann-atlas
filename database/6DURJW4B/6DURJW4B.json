@@ -1,0 +1,38 @@
+{
+    "id": "6DURJW4B",
+    "name": "real projective plane",
+    "dependencies": {
+        "R": "4E41D57C:real numbers"
+    },
+    "type": {
+        "2ACQNC9C": "projective 2-space",
+        "4QZXI0AF": "manifold",
+        "8MZK0C77": "algebraic variety --over {R}"
+    },
+    "definitions": {
+        "6DURJW4B_a": {
+            "language": "en":,
+            "dependencies": {
+                "1234": "Euclidean plane",
+                "2345": "parallel lines",
+                "5KH8646Q": "equivalence relation",
+                "3456": "incidence relation --on points and lines of a plane"
+            },
+            "comment": ""
+        },
+        "6DURJW4B_b": {
+            "language": "en":,
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "6DURJW4B_c": {
+            "language": "en":,
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

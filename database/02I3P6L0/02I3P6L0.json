@@ -1,0 +1,23 @@
+{
+    "id": "02I3P6L0",
+    "name": "character --of a group representation",
+    "dependencies": {
+        "G": "5PGIN6X2:group",
+        "k": "4BCNPPIX:field",
+        "V": "5EEV302V:representation of {G} --over {k}"
+    },
+    "template": "character of {V}",
+    "type": {
+        "4CID84AD": "function {G}→{k}"
+    },
+    "definitions": {
+        "02I3P6L0_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

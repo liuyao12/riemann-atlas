@@ -1,0 +1,1 @@
+A *smooth manifold* of dimension $n$ is a topological $n$-manifold $M$, together with an atlas $\\{(U_i, \varphi_i)\\}$, such that for any two coordinate charts $\varphi_i: U_i \to \mathbb{R}^n$ and $\varphi_j: U_j \to \mathbb{R}^n$, the transition map $\varphi_j \circ \varphi_i^{-1}$ is infinitely differentiable (smooth) on the overlap $\varphi_i(U_i \cap U_j)$.

@@ -1,0 +1,26 @@
+{
+    "id": "8TZK9FIS",
+    "name": "right module --over a ring",
+    "dependencies": {
+        "R": "7R2CT98Y:ring"
+    },
+    "type": "definition",
+    "definitions": {
+        "8TZK9FIS_a": {
+            "language": "en",
+            "dependencies": {
+                "53J4N2KC": "abelian group"
+            },
+            "comment": ""
+        },
+        "8TZK9FIS_a": {
+            "language": "en",
+            "dependencies": {
+                "8UBME7WQ": "left module --over {R}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}       

@@ -1,0 +1,1 @@
+Let $X$ be a topological space, and $S$ any subset of $X$. Then the *subspace topology* on $S$ is the topology with sets of the form $U \cap S$ for open sets $U \subseteq X$ as the open sets. The subset $S$ with the subspace topology is called a (topological) *subspace* of $X$.

@@ -1,0 +1,32 @@
+{
+    "id": "F8SMBHS0",
+    "name": "",
+    "type": "theorem",
+    "dependencies": {
+        "8A9M00AK": "complex numbers",
+        "2N67288B": "integral of a complex function --over a path"
+    },
+    "statements": {
+        "F8SMBHS0_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "F8SMBHS0_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "explicit calculation"
+        },
+        "F8SMBHS0_b": {
+            "language": "en",
+            "dependencies": {
+                "UW7HQDX4": "Cauchy's integral theorem"
+            },
+            "comment": ""
+        }
+    }
+}

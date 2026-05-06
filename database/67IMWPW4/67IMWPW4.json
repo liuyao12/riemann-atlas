@@ -1,0 +1,27 @@
+{
+    "id": "67IMWPW4",
+    "name": "commutative ring",
+    "dependencies": {
+    },
+    "type": {
+        "7R2CT98Y": "ring"
+    },
+    "definitions": {
+        "67IMWPW4_a": {
+            "language": "en",
+            "dependencies": {
+                "53J4N2KC": "abelian group",
+                "16AXGFEV": "binary operation"
+            },
+            "comment": ""
+        },
+        "67IMWPW4_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

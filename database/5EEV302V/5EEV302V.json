@@ -1,0 +1,29 @@
+{
+    "id": "5EEV302V",
+    "name": "representation of a group",
+    "dependencies": {
+        "G": "5PGIN6X2:group",
+        "k": "4BCNPPIX:field"
+    },
+    "type": {
+        "V": "2GM7AN7T:vector space --over {k}"
+    },
+    "definitions": {
+        "5EEV302V_a": {
+            "language": "en",
+            "dependencies": {
+                "4P80ZG3D": "general linear group GL({V})",
+                "7Y0E21ED": "homomorphism of groups"
+            },
+            "comment": ""
+        },
+        "5EEV302V_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

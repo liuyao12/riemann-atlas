@@ -1,0 +1,31 @@
+{
+    "id": "V1Z263TG",
+    "name": "limit of sin(x)/x",
+    "dependencies": {
+        "6Q393G4T": "sine --of a real number"
+    },
+    "statements": {
+        "V1Z263TG_1": {
+            "language": "",
+            "dependencies": {
+                "1GY90UBE": "limit of a map --of metric spaces"
+            },
+            "comment": "limit"
+        },
+        "V1Z263TG_2": {
+            "language": "",
+            "dependencies": {
+                
+            },
+            "comment": "little-o notation"
+        }
+    },
+    "proofs": {
+        "V1Z263TG_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

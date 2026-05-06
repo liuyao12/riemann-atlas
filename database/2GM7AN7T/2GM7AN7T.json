@@ -1,0 +1,34 @@
+{
+    "id": "2GM7AN7T",
+    "name": "vector space --over a division ring",
+    "dependencies": {
+        "k": "0MSVL02A:division ring"
+    },
+    "type": {
+        "8UBME7WQ": "module over {k}"
+    },
+    "definitions": {
+        "2GM7AN7T_a": {
+            "language": "en",
+            "dependencies": {
+                "53J4N2KC": "abelian group"
+            },
+            "comment": ""
+        },
+        "2GM7AN7T_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "2GM7AN7T_c": {
+            "language": "en",
+            "dependencies": {
+                "14V58VEZ": "n-tuple in {k}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

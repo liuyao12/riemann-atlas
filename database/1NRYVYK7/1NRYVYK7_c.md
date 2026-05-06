@@ -1,0 +1,1 @@
+The *sign* of a permutation of $n$ elements is the value of the homomorphism (character) $\varepsilon: S_n \to \\{ \pm 1 \\}$ of groups defined by $\varepsilon(s_i) = -1$ on the generators $s_i = (i, i+1)$, $1 \leq i < n$.

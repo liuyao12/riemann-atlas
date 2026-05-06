@@ -1,0 +1,28 @@
+{
+    "id": "5JDA478C",
+    "name": "simply-connectedness --of a topological space",
+    "dependencies": {
+    },
+    "type": {
+        "X": "1KNNEI7L:topological space"
+    },
+    "definitions": {
+        "5JDA478C_a": {
+            "language": "en",
+            "dependencies": {
+                "89S97K5T": "path-connected",
+                "28KGMW3P": "homotopy of loops"
+            },
+            "comment": ""
+        },
+        "5JDA478C_b": {
+            "language": "en",
+            "dependencies": {
+                "6H9U9EYG": "fundamental groupoid"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

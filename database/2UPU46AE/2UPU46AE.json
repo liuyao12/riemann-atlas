@@ -1,0 +1,26 @@
+{
+    "id": "2UPU46AE",
+    "name": "group action",
+    "dependencies": {
+        "G": "5PGIN6X2:group",
+        "X": "6WZ4C6XN:set"
+    },
+    "type": "definition",
+    "dependencies": {
+        "2UPU46AE_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "2UPU46AE_b": {
+            "language": "en",
+            "dependencies": {
+                "7Y0E21ED": "homomorphism of groups"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

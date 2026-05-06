@@ -1,0 +1,1 @@
+A *vector space* over a division ring $k$ is a (left) module $V$ over $k$. Elements of $V$ are often called *vectors*, and elements of $k$ are *scalars*, and the map $k \times V \to V$ is the *scalar multiplication*.

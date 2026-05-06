@@ -1,0 +1,27 @@
+{
+    "id": "62D5M55S",
+    "name": "limit of a sequence --in an ordered field",
+    "dependencies": {
+        "k": "1QTR4G3Q:normed field",
+        "68VSQXWU": "sequence --in {k}"
+    },
+    "type": {
+        "asdf": "element of {k}"
+    },
+    "statements": {
+        "62D5M55S_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "62D5M55S_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

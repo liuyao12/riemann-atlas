@@ -1,0 +1,21 @@
+{
+    "id": "4CPNB8RQ",
+    "name": "automorphism group --in a category",
+    "dependencies": {
+        "C": "7AQ7Q586:category"
+    },
+    "type": {
+        "5PGIN6X2": "group"
+    },
+    "definitions": {
+        "4CPNB8RQ_a": {
+            "language": "en",
+            "dependencies": {
+                "46G4T8KT": "isomorphism"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,1 @@
+A *subspace* of a vector space $V$ over a division ring $k$ is a subset $W \subseteq V$ that is itself a vector space under the addition and the scalar multiplication in $V$, i.e., it is closed under the two operations.

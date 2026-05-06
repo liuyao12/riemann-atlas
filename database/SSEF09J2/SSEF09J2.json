@@ -1,0 +1,23 @@
+{
+    "id": "SSEF09J2",
+    "name": "root decomposition of a semisimple Lie algebra over C",
+    "dependencies": {
+        "C": "8A9M00AK:complex numbers",
+        "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
+        "h": "3KPRPA7U:Cartan subalgebra --of {g}",
+        "4L3L79QX": "direct sum --of vector spaces --over {C}"
+    },
+    "type": "theorem",
+    "statements": {
+        "SSEF09J2_1": {
+            "language": "en",
+            "dependencies": {
+                "V": "2KC0FK3Z:adjoint representation --of {g}",
+                "521SC6P0": "weight space --of {V}"
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+    }
+}

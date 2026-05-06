@@ -1,0 +1,21 @@
+{
+    "id": "1BS8BVDE",
+    "name": "step function",
+    "dependencies": {
+        "I": "6NA8726A:interval",
+        "R": "4E41D57C:real numbers"
+    },
+    "type": {
+        "4CID84AD": "map {I}\u2192{R}"
+    },
+    "definitions": {
+        "1BS8BVDE_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,1 @@
+An *initial object* of a category $\mathcal{C}$ is an object $x$ in $\mathcal{C}$ for which there is a unique morphism $x \to y$ for any object $y$ in $\mathcal{C}$. Dually, a *terminal object* is an object $x$ for which there is a unique morphism $y \to x$ for any object $y$ in $\mathcal{C}$.

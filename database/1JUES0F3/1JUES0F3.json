@@ -1,0 +1,22 @@
+{
+    "id": "1JUES0F3",
+    "name": "matrix of order n --over a ring",
+    "dependencies": {
+        "n": "63AS5IGZ:natural number",
+        "R": "7R2CT98Y:ring"
+    },
+    "template": "matrix of order {n} over {R}",
+    "type": {
+        "8M6CAY2R": "matrix --over {R}"
+    },
+    "definitions": {
+        "1JUES0F3_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

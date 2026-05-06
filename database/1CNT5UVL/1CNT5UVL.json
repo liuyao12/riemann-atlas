@@ -1,0 +1,29 @@
+{
+    "id": "1CNT5UVL",
+    "name": "integral of a continuous function --of a real variable",
+    "dependencies": {
+        "9JC74TZG": "continuous function --of a real variable"
+    },
+    "type": {
+        "4E41D57C": "real number"
+    },
+    "definitions": {
+        "1CNT5UVL_a": {
+            "language": "en",
+            "dependencies": {
+                "62D5M55S": "limit of a sequence --of real numbers"
+            },
+            "comment": "Riemann integral"
+        },
+        "1CNT5UVL_b": {
+            "language": "en",
+            "dependencies": {
+                "51BAGP0Y": "supremum",
+                "50X0F47M": "integral of step function"
+            },
+            "comment": "Lebesgue integral"
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "id": "AUE49P6F",
+    "name": "Weyl's character formula",
+    "dependencies": {
+        "8A9M00AK": "complex numbers",
+        "g": "1IYIAGFB:semisimple Lie algebra --over ℂ",
+        "V": "7S2ZH0MJ:irreducible representation of {g} --over ℂ",
+        "62DKJFVQ": "character of {V}",
+        "h": "3KPRPA7U:Cartan subalgebra of {g}",
+        "2D5F8K66": "root system of {g}",
+        "350YVP4C": "Weyl group of {g}"
+    },
+    "type": "theorem",
+    "statements": {
+        "AUE49P6F_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "AUE49P6F_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "AUE49P6F_a": {
+            "language": "en",
+            "dependencies": {
+                "LTQZ81LP": "BGG resolution"
+            },
+            "comment": ""
+        }
+    }
+}

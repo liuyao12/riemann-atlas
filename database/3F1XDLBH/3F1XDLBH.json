@@ -1,0 +1,19 @@
+{
+    "id": "3F1XDLBH",
+    "name": "homotopy",
+    "type": "definition",
+    "dependencies": {
+        "1KNNEI7L": "topological space",
+        "8U8A9Z8E": "continuous map"
+    },
+    "definitions": {
+        "3F1XDLBH_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

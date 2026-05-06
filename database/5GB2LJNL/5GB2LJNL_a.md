@@ -1,0 +1,1 @@
+The *characteristic* of a field $k$, denoted $\mathop{\mathrm{char}} k$, is the smallest number $p > 0$ such that $p \cdot 1 := 1 + \cdots + 1$ ($p$ times) is equal to $0$ (in $k$). If no such $p$ exists, the characteristic of $k$ is zero.

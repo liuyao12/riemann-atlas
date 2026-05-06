@@ -1,0 +1,55 @@
+{
+    "id": "62DKJFVQ",
+    "name": "character of a representation --of a complex semisimple Lie algebra",
+    "dependencies": {
+        "C": "8A9M00AK:complex numbers",
+        "g": "1IYIAGFB:semisimple Lie algebra --over complex numbers",
+        "h": "3KPRPA7U:Cartan subalgebra of {g}",
+        "V": "6DTG5YM7:representation of {g} over {C}"
+    },
+    "template": "character of {V} --with respect to {h}",
+    "type": {
+        "9EVZZ8HR": "dual vector space of {h}"
+    },
+    "statements": {
+        "62DKJFVQ_a": {
+            "language": "en",
+            "dependencies": {
+                "521SC6P0": "weight / weight space --of {V}",
+                "8YNTJFQ9": "dimension --of a vector space",
+                "4SUT68SF": "exponential function --of a complex variable"
+            },
+            "comment": ""
+        },
+        "62DKJFVQ_b": {
+            "language": "en",
+            "dependencies": {
+                "8YNTJFQ9": "dimension --of a vector space"
+            },
+            "type": {
+                "18ACACHZ": "group algebra of {h} over {C}"
+            },
+            "comment": ""
+        },
+        "62DKJFVQ_c": {
+            "language": "en",
+            "dependencies": {
+                "P": "4S0Z7SV3:weight lattice",
+                "8YNTJFQ9": "dimension --of a vector space"
+            },
+            "type": {
+                "18ACACHZ": "group algebra of {P} over {C}"
+            },
+            "comment": ""
+        },
+        "62DKJFVQ_d": {
+            "language": "en",
+            "dependencies": {
+                "02I3P6L0": "character --of a group representation"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

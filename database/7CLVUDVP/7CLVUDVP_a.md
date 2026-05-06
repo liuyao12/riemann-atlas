@@ -1,0 +1,1 @@
+The (Cartesian) *product* of sets $S$ and $T$ is the set of *ordered pairs* $(s, t)$ with $s \in S$ and $t \in T$, and it is denoted $S \times T$. In general, the *product* of finitely many sets $S_1, S_2, \ldots, S_n$ is the set of $(s_1, s_2, \ldots, s_n)$ with $s_i \in S_i$, denoted $S_1 \times \cdots \times S_n$ or $\prod_i S_i$.

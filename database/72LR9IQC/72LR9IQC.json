@@ -1,0 +1,22 @@
+{
+    "id": "72LR9IQC",
+    "name": "localization of a ring",
+    "dependencies": {
+        "R": "67IMWPW4:commutative ring",
+        "2ICDEY7D": "multiplicative set of {R}"
+    },
+    "type": {
+        "67IMWPW4": "commutative ring"
+    },
+    "definitions": {
+        "72LR9IQC_a": {
+            "language": "en",
+            "dependencies": {
+                "5KH8646Q": "equivalence relation"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

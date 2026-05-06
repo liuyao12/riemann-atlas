@@ -1,0 +1,30 @@
+{
+    "id": "14V58VEZ",
+    "name": "n-tuple --in a set",
+    "dependencies": {
+        "n": "63AS5IGZ:natural number",
+        "S": "6WZ4C6XN:set"
+    },
+    "template": "{S}^{n}",
+    "type": {
+        "6WZ4C6XN": "set"
+    },
+    "definitions": {
+        "14V58VEZ_a": {
+            "language": "en",
+            "dependencies": {
+                "7CLVUDVP": "product --of sets"
+            },
+            "comment": ""
+        },
+        "14V58VEZ_b": {
+            "language": "en",
+            "dependencies": {
+                "4CID84AD": "map of sets"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

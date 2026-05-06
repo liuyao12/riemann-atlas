@@ -1,0 +1,21 @@
+{
+    "id": "4CID84AD",
+    "name": "map --of sets",
+    "dependencies": {
+        "X": "6WZ4C6XN:set",
+        "Y": "6WZ4C6XN:set"
+    },
+    "type": "definition",
+    "definitions": {
+        "4CID84AD": {
+            "language": "en",
+            "dependencies": {
+                "X×Y": "7CLVUDVP:product of {X} and {Y}",
+                "7XM484KI": "subset of {X×Y}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

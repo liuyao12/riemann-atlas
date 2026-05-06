@@ -1,0 +1,33 @@
+{
+    "id": "0CLV6SL7",
+    "name": "invertible / inverse matrix",
+    "dependencies": {
+        "n": "63AS5IGZ:natural number",
+        "k": "67IMWPW4:commutative ring",
+        "A": "1JUES0F3:matrix of order {n} --over {k}"
+    },
+    "template": "inverse matrix of {A}",
+    "type": {
+        "1JUES0F3": "matrix of order {n} --over {k}"
+    },
+    "statements": {
+        "0CLV6SL7_a": {
+            "language": "en",
+            "dependencies": {
+                "7RG754YE": "matrix multiplication",
+                "0SXI6DVV": "identity matrix --of order {n} over {k}"
+            },
+            "comment": ""
+        },
+        "0CLV6SL7_b": {
+            "language": "en",
+            "dependencies": {
+                "4HNSRY62": "determinant of {A}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
+        

@@ -1,0 +1,20 @@
+{
+    "id": "1BLAGBTU",
+    "name": "free object --in a category",
+    "type": "definition",
+    "dependencies": {
+        "C": "7AQ7Q586:category",
+        "1234": "faithful functor"
+    },
+    "definitions": {
+        "1BLAGBTU_a": {
+            "language": "en",
+            "dependencies": {
+                "2345": "adjoint functor"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

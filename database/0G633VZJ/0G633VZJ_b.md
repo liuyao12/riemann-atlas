@@ -1,0 +1,1 @@
+Let $\mathfrak{g}$ be a semisimple Lie algebra over the field $\mathbb{C}$ of complex numbers, and $\mathfrak{h} \subset \mathfrak{g}$ a Cartan subalgebra. A *weight* (of $\mathfrak{g}$) is the weight of some (finite or infinite-dimensional) representation of $\mathfrak{g}$ with respect to $\mathfrak{h}$.

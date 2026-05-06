@@ -1,0 +1,1 @@
+Let $A$ be an $m\times n$ matrix, and $B$ be an $n\times p$ matrix, over a ring $k$. Then the *multiplication* (or *product*) $AB$ is the matrix for the composite linear map $k^p \to k^m$, $v \mapsto A (B v)$.

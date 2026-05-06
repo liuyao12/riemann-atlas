@@ -1,0 +1,22 @@
+{
+    "id": "68VSQXWU",
+    "name": "sequence --in a set",
+    "dependencies": {
+        "S": "6WZ4C6XN:set"
+    },
+    "type": "definition",
+    "definitions": {
+        "68VSQXWU_a": {
+            "language": "en",
+            "dependencies": {
+                "ℕ": "63AS5IGZ:natural numbers"
+            },
+            "type": {
+                "4CID84AD": "map {ℕ}→{S}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

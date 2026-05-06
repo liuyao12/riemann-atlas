@@ -1,0 +1,26 @@
+{
+    "id": "KJWDUNKD",
+    "name": "mean value theorem",
+    "type": "theorem",
+    "dependencies": {
+        "9JC74TZG": "continuous function",
+        "98SB2AL0": "differentiable / derivative"
+    },
+    "statements": {
+        "KJWDUNKD_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "KJWDUNKD_a": {
+            "language": "en",
+            "dependencies": {
+                "MSGKA9CL": "extreme value theorem"
+            },
+            "comment": ""
+        }
+    }
+}

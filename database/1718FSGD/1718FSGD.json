@@ -1,0 +1,22 @@
+{
+    "id": "1718FSGD",
+    "name": "smooth map",
+    "dependencies": {
+        "M": "24CSICHB:smooth manifold",
+        "N": "24CSICHB:smooth manifold"
+    },
+    "type": {
+        "f": "4CID84AD:map {M}\u2192{N}",
+    },
+    "definitions": {
+        "1718FSGD_a": {
+            "language": "en",
+            "dependencies": {
+                "83ZU2PTV": "differentiable"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

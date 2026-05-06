@@ -1,0 +1,20 @@
+{
+    "id": "04D13XAF",
+    "name": "bilinear form --on a vector space",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space --over {k}"
+    },
+    "type": "definition",
+    "definitions": {
+        "04D13XAF_a": {
+            "language": "en",
+            "dependencies": {
+                "03LC586U": "bilinear"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

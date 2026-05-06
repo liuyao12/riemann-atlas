@@ -1,0 +1,1 @@
+A map $f: M \to N$ of smooth manifolds $M$ and $N$ is *smooth* if for each $p \in M$, and each local coordinate $x$ near $p$ and local coordinate $y$ near $f(p)$, $y$ is infinitely differentiable as a function of $x$.

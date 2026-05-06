@@ -1,0 +1,25 @@
+{
+    "id": "2XSYP2D5",
+    "name": "tensor product --of Lie algebra representations",
+    "dependencies": {
+        "F": "4BCNPPIX:field",
+        "g": "3H8N6TE0:Lie algebra --over {F}",
+        "k": "4BCNPPIX:field",
+        "V": "6DTG5YM7:representation --of {g} over {k}",
+        "W": "6DTG5YM7:representation --of {g} over {k}"
+    },
+    "type": {
+        "6DTG5YM7": "representation --of {g} over {k}"
+    },
+    "definitions": {
+        "2XSYP2D5_a": {
+            "language": "en",
+            "dependencies": {
+                "6UUA82LQ": "tensor product {V}⊗{W} --as vector spaces"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

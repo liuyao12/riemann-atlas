@@ -1,0 +1,20 @@
+{
+    "id": "5KH8646Q",
+    "name": "equivalence relation",
+    "dependencies": {
+        "S": "6WZ4C6XN:set"
+    },
+    "type": {
+        "5FLQREKQ": "relation --on {S}"
+    },
+    "definitions": {
+        "5KH8646Q_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

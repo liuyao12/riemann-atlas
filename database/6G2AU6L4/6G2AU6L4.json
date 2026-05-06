@@ -1,0 +1,21 @@
+{
+    "id": "6G2AU6L4",
+    "name": "open ball --in metric space",
+    "dependencies": {
+        "k": "7YQ2QQGH:ordered field",
+        "M": "6G2DYFBY:metric space --over {k}"
+    },
+    "type": {
+        "7XM484KI": "subset of {M}"
+    },
+    "definitions": {
+        "6G2AU6L4_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

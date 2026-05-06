@@ -1,0 +1,21 @@
+{
+    "id": "1LTQ58M1",
+    "name": "trace of a matrix",
+    "dependencies": {
+        "R": "7R2CT98Y:ring",
+        "A": "8M6CAY2R:matrix over {R}"
+    },
+    "type": {
+        "477289UH": "element of {R}"
+    },
+    "definitions": {
+        "1LTQ58M1_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

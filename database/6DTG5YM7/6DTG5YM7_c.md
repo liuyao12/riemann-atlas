@@ -1,0 +1,1 @@
+Let $\mathfrak{g}$ be a Lie algebra over a field $F$, and let $U(\mathfrak{g})$ be the universal enveloping algebra $U(\mathfrak{g})$. A *representation* of $\mathfrak{g}$ over a field extension $k/F$ is a (left) module over $U(\mathfrak{g})\otimes_{F} k$. One sometimes calls a representation of $\mathfrak{g}$ simply a $\mathfrak{g}$-*module*, if no confusion arises.

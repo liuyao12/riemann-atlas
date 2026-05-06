@@ -1,0 +1,21 @@
+{
+    "id": "16AXGFEV",
+    "name": "binary operation --on a set",
+    "dependencies": {
+        "S": "6WZ4C6XN:set"
+    },
+    "template": "binary operation on {S}",
+    "type": "definition",
+    "definitions": {
+        "16AXGFEV_a": {
+            "language": "en",
+            "dependencies": {
+                "S×S": "7CLVUDVP:product {S}×{S}",
+                "4CID84AD": "map {S×S}→{S}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

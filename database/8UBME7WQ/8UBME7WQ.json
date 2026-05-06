@@ -1,0 +1,20 @@
+{
+    "id": "8UBME7WQ",
+    "name": "module --over a ring",
+    "dependencies": {
+        "R": "7R2CT98Y:ring"
+    },
+    "type": {
+        "53J4N2KC": "abelian group"
+    },
+    "definitions": {
+        "8UBME7WQ_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

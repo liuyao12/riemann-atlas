@@ -1,0 +1,22 @@
+{
+    "id": "1GY90UBE",
+    "name": "limit of a map of metric spaces",
+    "dependencies": {
+        "X": "6G2DYFBY:metric space",
+        "Y": "6G2DYFBY:metric space",
+        "U": "7XM484KI:subset --of {X}",
+        "4CID84AD": "map {U}→{Y}",
+        "9P5URE76": "accumulation point"
+    },
+    "type": "element of {Y}",
+    "definitions": {
+        "1GY90UBE_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

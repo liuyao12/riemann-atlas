@@ -1,0 +1,20 @@
+{
+    "id": "289L2UDR",
+    "name": "category of topological spaces",
+    "dependencies": {
+    },
+    "type": {
+        "7AQ7Q586": "category"
+    },
+    "definitions": {
+        "289L2UDR_a": {
+            "language": "en",
+            "dependencies": {
+                "1KNNEI7L": "topological space",
+                "8U8A9Z8E": "continuous map --of topological spaces"
+            }
+        }
+    },
+    "equivalences": {
+    }
+}

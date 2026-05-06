@@ -1,0 +1,22 @@
+{
+    "id": "0FRYJCML",
+    "name": "locally ringed space",
+    "dependencies": {
+        "X": "1KNNEI7L:topological space",
+    },
+    "type": {
+        "F": "8G2N9B2B:sheaf of rings --on {X}"
+    },
+    "definitions": {
+        "0FRYJCML_a": {
+            "language": "en",
+            "dependencies": {
+                "5GF68309": "stalk --of {F}",
+                "1JK1WRZD": "local ring"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

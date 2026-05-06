@@ -1,0 +1,20 @@
+{
+    "id": "5FLQREKQ",
+    "name": "relation --on a set",
+    "dependencies": {
+        "S": "6WZ4C6XN:set"
+    },
+    "type": "definition",
+    "definitions": {
+        "5FLQREKQ_a": {
+            "language": "en",
+            "dependencies": {
+                "S×S": "7CLVUDVP:product {S}×{S}",
+                "7XM484KI": "subset of {S×S}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

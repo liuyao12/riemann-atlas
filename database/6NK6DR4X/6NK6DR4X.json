@@ -1,0 +1,29 @@
+{
+    "id": "6NK6DR4X",
+    "name": "localization at an element",
+    "dependencies": {
+        "R": "67IMWPW4:commutative ring"
+    },
+    "type": {
+        "67IMWPW4": "commutative ring"
+    },
+    "definitions": {
+        "6NK6DR4X_a": {
+            "language": "en",
+            "dependencies": {
+                "5KH8646Q": "equivalence relation"
+            },
+            "comment": ""
+        },
+        "6NK6DR4X_a": {
+            "language": "en",
+            "dependencies": {
+                "72LR9IQC": "localization of a ring",
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
+        

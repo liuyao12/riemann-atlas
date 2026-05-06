@@ -1,0 +1,19 @@
+{
+    "id": "8WS9NG7U",
+    "name": "closed subset of Euclidean space",
+    "type": "definition",
+    "dependencies": {
+        "4ZL3GXH5": "Euclidean space"
+    },
+    "definitions": {
+        "8WS9NG7U_a": {
+            "language": "en",
+            "dependencies": {
+                "2G8ZNB7E": "open subset --of Euclidean space"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

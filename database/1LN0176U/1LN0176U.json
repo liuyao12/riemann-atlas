@@ -1,0 +1,20 @@
+{
+    "id": "1LN0176U",
+    "name": "piecewise 𝐶¹ path",
+    "type": "definition",
+    "dependencies": {
+        "4737FZPD": "curve / path",
+        "4ZL3GXH5": "Euclidean space"
+    },
+    "definitions": {
+        "1LN0176U_a": {
+            "language": "en",
+            "dependencies": {
+                "98SB2AL0": "differentiable"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

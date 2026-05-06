@@ -1,0 +1,1 @@
+A *closed path* (or *loop*) in a topological space $X$ is an equivalence class of continuous maps $\gamma: S^1 \to X$, with $\gamma_1 \sim \gamma_2$ if there is a homeomorphism $\phi: S^1 \to S^1$ such that $\phi$ is homotopic to the identity, and $\gamma_1 = \gamma_2 \circ \phi$.

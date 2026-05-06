@@ -1,0 +1,43 @@
+{
+    "id": "UW5NJJ9J",
+    "name": "Taylor's theorem --of a real variable",
+    "type": "theorem",
+    "dependencies": {
+        "4E41D57C": "real numbers",
+        "9JC74TZG": "continuous function",
+        "98SB2AL0": "differentiable / derivative"
+    },
+    "statements": {
+        "UW5NJJ9J_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "UW5NJJ9J_a": {
+            "language": "en",
+            "dependencies": {
+                "JHR0WTA8": "Lagrange remainder"
+            },
+            "comment": ""
+        },
+        "UW5NJJ9J_b": {
+            "language": "en",
+            "dependencies": {
+                "S8P9UI0H": "Fundamental Theorem of Calculus",
+                "1CNT5UVL": "integral of a continuous function"
+            },
+            "comment": "repeated application of FTC, yielding an exact expression of the reminader as an iterated integral"
+        },
+        "UW5NJJ9J_c": {
+            "language": "en",
+            "dependencies": {
+                "S8P9UI0H": "Fundamental Theorem of Calculus",
+                "1CNT5UVL": "integral of a continuous function"
+            },
+            "comment": "repeated application of FTC"
+        }
+    }
+}

@@ -1,0 +1,1 @@
+A (real) *Lie group* is a smooth manifold $G$ with a compatible group structure, namely, a binary operation $G \times G \to G$, $(g, h) \mapsto gh$ with identity $e \in G$, and each $g \in G$ has an inverse $g^{-1}$, such that the maps $(g, h) \mapsto gh$ and $g \mapsto g^{-1}$ are smooth ($C^{\infty}$).

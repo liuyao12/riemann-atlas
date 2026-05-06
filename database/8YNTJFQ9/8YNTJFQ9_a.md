@@ -1,0 +1,1 @@
+The *dimension* of a vector space $V$ over a division ring $k$, denoted $\dim_{k} V$ or simply $\dim V$, is the number of vectors in a basis of $V$. One says that $V$ is *infinite-dimensional* if $\dim V$ is not finite, and one may regard the map $V \mapsto \dim V$ as a function from vector spaces to $\mathbb{N} \cup \\{\infty\\}$.

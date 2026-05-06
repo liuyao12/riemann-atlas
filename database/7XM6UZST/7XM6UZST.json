@@ -1,0 +1,21 @@
+{
+    "id": "7XM6UZST",
+    "name": "division algebra --over a field",
+    "dependencies": {
+        "k": "4BCNPPIX:field"
+    },
+    "type": {
+        "0MSVL02A": "division ring",
+        "482U6RA1": "algebra --over {k}"
+    },
+    "definitions": {
+        "7XM6UZST_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

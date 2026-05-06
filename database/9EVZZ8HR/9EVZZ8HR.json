@@ -1,0 +1,22 @@
+{
+    "id": "9EVZZ8HR",
+    "name": "dual vector space",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space over {k}"
+    },
+    "type": {
+        "2GM7AN7T": "vector space over {k}"
+    },
+    "statements": {
+        "9EVZZ8HR_a": {
+            "language": "en",
+            "dependencies": {
+                "5BDJ54RG": "linear map {V}→{k}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

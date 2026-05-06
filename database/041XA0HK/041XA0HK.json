@@ -1,0 +1,29 @@
+{
+    "id": "041XA0HK",
+    "name": "field of fractions --of an integral domain",
+    "dependencies": {
+        "R": "854XXMYM:integral domain"
+    },
+    "template": "field of fractions of {R}",
+    "type": {
+        "4BCNPPIX": "field"
+    },
+    "definitions": {
+        "041XA0HK_a": {
+            "language": "en",
+            "dependencies": {
+                "5KH8646Q": "equivalence relation"
+            },
+            "comment": ""
+        },
+        "041XA0HK_b": {
+            "language": "en",
+            "dependencies": {
+                "72LR9IQC": "localization of {R}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": "75CUJWK5",
+    "name": "meromorphic function --of a complex variable",
+    "dependencies": {
+        "U": "7J61CJRC:domain --of the complex plane",
+        "C": "8A9M00AK:complex numbers"
+    },
+    "type": {
+        "4CID84AD": "map {U}→{C}"
+    },
+    "statements": {
+        "75CUJWK5_a": {
+            "language": "en",
+            "dependencies": {
+                "1DUN1Q71": "holomorphic function --of a complex variable",
+                "1234": "pole"
+            },
+            "comment": "holomorphic except poles"
+        },
+        "75CUJWK5_b": {
+            "language": "en",
+            "dependencies": {
+                "627VC4TI": "Laurent series",
+                "6Y14D2JD": "convergence"
+            },
+            "comment": "locally represented by Laurent series"
+        },
+        "75CUJWK5_a": {
+            "language": "en",
+            "dependencies": {
+                "1DUN1Q71": "holomorphic function --of a complex variable"
+            },
+            "comment": "quotient of holomorphic functions"
+        },
+        "75CUJWK5_a": {
+            "language": "en",
+            "dependencies": {
+                "1234": "Riemann sphere",
+                "1DUN1Q71": "holomorphic map"
+            },
+            "comment": "holomorphic map to the Riemann sphere"
+        }
+    },
+    "equivalences": {
+    }
+}

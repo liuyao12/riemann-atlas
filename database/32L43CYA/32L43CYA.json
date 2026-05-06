@@ -1,0 +1,22 @@
+{
+    "id": "32L43CYA",
+    "name": "spectrum of a ring",
+    "dependencies": {
+        "R": "67IMWPW4:commutative ring"
+    },
+    "type": {
+        "0FRYJCML": "locally ringed space"
+    },
+    "definitions": {
+        "32L43CYA_a": {
+            "language": "en",
+            "dependencies": {
+                "3GNTTUR1": "prime ideal",
+                "6NK6DR4X": "localization at an element"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

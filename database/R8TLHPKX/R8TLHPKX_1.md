@@ -1,0 +1,1 @@
+The Laplacian operator $\Delta = \sum_i \frac{\partial^2}{\partial x_i^2}$ on $\mathbb{R}^n$ and the multiplication operator $Q = \sum_i x_i^2$ generate a Lie algebra over $\mathbf{K}=\mathbb{R}$ or $\mathbb{C}$ that is isomorphic to $\mathfrak{sl}_2(\mathbf{K})$. In other words, they give rise to (infinite-dimensional) representations of $\mathfrak{sl}_2(\mathbf{K})$.

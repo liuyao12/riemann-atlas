@@ -1,0 +1,27 @@
+{
+    "id": "W657GT13",
+    "name": "Weyl group of sl_n",
+    "dependencies": {
+        "1IRBEAFN": "Lie algebra sl_n",
+        "3KPRPA7U": "Cartan subalgebra",
+        "350YVP4C": "Weyl group",
+        "4P37BYJ5": "symmetric group"
+    },
+    "type": "theorem",
+    "statements": {
+        "W657GT13_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "W657GT13_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    }
+}

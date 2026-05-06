@@ -1,0 +1,1 @@
+Let $\mathfrak{g}$ be a semisimple Lie algebra over the field $\mathbb{C}$ of complex numbers, $\mathfrak{h} \subset \mathfrak{g}$ a Cartan subalgebra. The *weight lattice* of $\mathfrak{g}$ with respect to $\mathfrak{h}$ is the set of all the weights of finite-dimensional representations of $\mathfrak{g}$.

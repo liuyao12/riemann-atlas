@@ -1,0 +1,21 @@
+{
+    "id": "3M0FUVI4",
+    "name": "compact",
+    "dependencies": {
+        "X": "1KNNEI7L:topological space"
+    },
+    "type": {
+        "asdf": "subset of {X}"
+    },
+    "definitions": {
+        "3M0FUVI4_a": {
+            "language": "en",
+            "dependencies": {
+                "1234": "open cover"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "id": "1IYIAGFB",
+    "name": "semisimple Lie algebra --over complex numbers",
+    "dependencies": {
+        "C": "8A9M00AK:complex numbers"
+    },
+    "type": {
+        "g": "3H8N6TE0:Lie algebra --over {C}"
+    },
+    "definitions": {
+        "1IYIAGFB_a": {
+            "language": "en",
+            "dependencies": {
+                "3EFEFC0N": "abelian Lie algebra",
+                "4VVA9RFS": "normal subalgebra"
+            },
+            "comment": ""
+        },
+        "1IYIAGFB_b": {
+            "language": "en",
+            "dependencies": {
+                "9YQXSSGI": "Killing form --on {g}"
+            },
+            "comment": ""
+        },
+        "1IYIAGFB_a": {
+            "language": "en",
+            "dependencies": {
+                "8I8TQVCL": "simple Lie algebra"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

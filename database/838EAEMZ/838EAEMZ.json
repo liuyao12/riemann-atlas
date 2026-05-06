@@ -1,0 +1,23 @@
+{
+    "id": "838EAEMZ",
+    "name": "Lie algebra gl(V)",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space --over {k}"
+    },
+    "type": {
+        "3H8N6TE0": "Lie algebra --over {k}"
+    },
+    "definitions": {
+        "838EAEMZ_a": {
+            "language": "en",
+            "dependencies": {
+                "GC89J6ZA": "Lie algebra --of an associative algebra",
+                "5BDJ54RG": "linear map --of vector spaces"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

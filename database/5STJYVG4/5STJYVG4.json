@@ -1,0 +1,25 @@
+{
+    "id": "5STJYVG4",
+    "name": "tensor product --of modules over a commutative ring",
+    "dependencies": {
+        "R": "67IMWPW4:commutative ring",
+        "M": "8UBME7WQ:module over {R}",
+        "N": "8UBME7WQ:module over {R}"
+    },
+    "type": {
+        "M⊗N": "8UBME7WQ:module over {R}",
+        "phi": "03LC586U:bilinear map from {M}×{N}→{M⊗N}"
+    },
+    "definitions": {
+        "5STJYVG4_a": {
+            "language": "en",
+            "dependencies": {
+                "03LC586U": "bilinear",
+                "3TA01A9S": "linear"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

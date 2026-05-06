@@ -1,0 +1,1 @@
+Let $n \geq 2$ be a natural number. The *integers modulo* $n$ are the equivalence classes of integers, where $a \sim b$ if $n | (a - b)$. The set of integers modulo $n$ is denoted $\mathbb{Z}/n\mathbb{Z}$, on which addition and multiplication are defined via representatives, making it a ring.

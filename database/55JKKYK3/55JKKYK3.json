@@ -1,0 +1,30 @@
+{
+    "id": "55JKKYK3",
+    "name": "maximal ideal",
+    "dependencies": {
+        "R": "67IMWPW4:commutative ring",
+    },
+    "type": {
+        "I": "5DPZ7F9Z:ideal of {R}"
+    },
+    "definitions": {
+        "55JKKYK3_a": {
+            "language": "en",
+            "dependencies": {
+                "0X1W2BDY": "maximal --in a poset"
+            },
+            "comment": ""
+        },
+        "55JKKYK3_b": {
+            "language": "en",
+            "dependencies": {
+                "485YWHBH": "quotient ring {R} mod {I}",
+                "4BCNPPIX": "field"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}
+        

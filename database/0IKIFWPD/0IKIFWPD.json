@@ -1,0 +1,28 @@
+{
+    "id": "0IKIFWPD",
+    "name": "subspace --of a vector space",
+    "dependencies": {
+        "k": "0MSVL02A:division ring",
+        "V": "2GM7AN7T:vector space over {k}"
+    },
+    "type": {
+        "2GM7AN7T": "vector space over {k}"
+    },
+    "definitions": {
+        "0IKIFWPD_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        },
+        "0IKIFWPD_b": {
+            "language": "en",
+            "dependencies": {
+                "2NQXZL7L": "linear span in {V}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "id": "9TPP1VUX",
+    "name": "trace of a linear map",
+    "dependencies": {
+        "k": "4BCNPPIX:field",
+        "V": "2GM7AN7T:vector space over {k}",
+        "L": "5BDJ54RG:linear map {V}→{V}"
+    },
+    "type": {
+        "477289UH": "element of {k}"
+    },
+    "definitions": {
+        "9TPP1VUX_a": {
+            "language": "en",
+            "dependencies": {
+                "5QCVZP8Y": "basis of {V}",
+                "1NSFWKTN": "matrix of {L}",
+                "X0HE74DM": "independence of basis"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "id": "1GLXUU44",
+    "name": "quotient of a module by a submodule",
+    "dependencies": {
+        "R": "7R2CT98Y:ring",
+        "M": "8UBME7WQ:module --over {R}",
+        "N": "1DC1LBYT:submodule of {M}"
+    },
+    "template": "quotient module of {M} modulo {N}",
+    "type": {
+        "8UBME7WQ": "module --over {R}"
+    },
+    "definitions": {
+        "1GLXUU44_a": {
+            "language": "en",
+            "dependencies": {
+                "5KH8646Q": "equivalence relation"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

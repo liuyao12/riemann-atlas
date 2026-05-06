@@ -1,0 +1,20 @@
+{
+    "id": "38Z73IC0",
+    "name": "open subset --of a normed field",
+    "dependencies": {
+        "K": "1QTR4G3Q:normed field"
+    },
+    "type": {
+        "7XM484KI": "subset --of {K}"
+    },
+    "definitions": {
+        "38Z73IC0_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "id": "WV2XPILF",
+    "name": "general linear group GL_n",
+    "type": "theorem",
+    "dependencies": {
+        "0CLV6SL7": "inverse matrix",
+        "7RG754YE": "matrix multiplication",
+        "5PGIN6X2": "group"
+    },
+    "statements": {
+        "WV2XPILF_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "WV2XPILF_a": {
+            "language": "en",
+            "dependencies": {
+                "ZW4IZY8T": "associativity"
+            },
+            "comment": ""
+        }
+    }
+}

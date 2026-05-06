@@ -1,0 +1,29 @@
+{
+    "id": "MLNETN0Q",
+    "name": "Fermat's little theorem",
+    "type": "theorem",
+    "dependencies": {
+        "a": "63AS5IGZ:natural number",
+        "p": "3WA9MHZS:prime number"
+    },
+    "statements": {
+        "MLNETN0Q_1": {
+            "language": "en",
+            "dependencies": {
+                "21RSS1YN": "congruence"
+            },
+            "comment": ""
+        }
+    },
+    "proofs": {
+        "MLNETN0Q_a": {
+            "language": "en",
+            "dependencies": {
+                "Z/pZ": "66G8X7DK: integers modulo {p}",
+                "G": "1D4V1VDG:multiplicative group --of {Z/pZ}",
+                "QNILJPVS": "Lagrange's theorem for {G}"
+            },
+            "comment": ""
+        }
+    }
+}

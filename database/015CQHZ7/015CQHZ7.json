@@ -1,0 +1,20 @@
+{
+    "id": "015CQHZ7",
+    "name": "scheme",
+    "dependencies": {
+    },
+    "type": {
+        "0FRYJCML": "locally ringed space"
+    },
+    "definitions": {
+        "015CQHZ7_a": {
+            "language": "en",
+            "dependencies": {
+                "32L43CYA": "spectrum of a ring"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

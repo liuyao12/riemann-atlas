@@ -1,0 +1,40 @@
+{
+    "id": "4P80ZG3D",
+    "name": "general linear group GL(V)",
+    "dependencies": {
+        "k": "0MSVL02A:division ring",
+        "V": "3ULU55NP:finite-dimensional vector space --over {k}"
+    },
+    "template": "GL({V})",
+    "type": {
+        "5PGIN6X2": "group"
+    },
+    "definitions": {
+        "4P80ZG3D_a": {
+            "language": "en",
+            "dependencies": {
+                "5BDJ54RG": "linear map {V}→{V}",
+                "0CLV6SL7": "inverse matrix"
+            },
+            "comment": ""
+        },
+        "4P80ZG3D_b": {
+            "language": "en",
+            "dependencies": {
+                "End": "93SVAXQP:endomorphism ring of {V}",
+                "1D4V1VDG": "multiplicative group of {End}"
+            },
+            "comment": ""
+        },
+        "RDL85FLK_c": {
+            "language": "en",
+            "dependencies": {
+                "Vec": "44VYKHU7:category of vector spaces over {k}",
+                "4CPNB8RQ": "automorphism group in {Vec}"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

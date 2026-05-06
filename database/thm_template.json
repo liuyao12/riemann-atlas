@@ -1,0 +1,31 @@
+{
+    "id": "AAAA",
+    "name": "",
+    "dependencies": {
+        "4E41D57C": "real numbers",
+    },
+    "statements": {
+        "AAAA_1": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "",
+        }
+    }
+    "formula": [
+    ],
+    "proofs": {
+        "AAAA_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "",
+        },
+        "AAAA_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "",
+        },
+  }
+}

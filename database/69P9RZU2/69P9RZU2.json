@@ -1,0 +1,30 @@
+{
+    "id": "69P9RZU2",
+    "name": "fundamental group --of a topological space",
+    "dependencies": {
+        "X": "1KNNEI7L:topological space",
+        "x_0": "point of {X}"
+    },
+    "type": {
+        "asdf": "group"
+    },
+    "definitions": {
+        "69P9RZU2_a": {
+            "language": "en",
+            "dependencies": {
+                "6H9U9EYG": "fundamental groupoid",
+                "4CPNB8RQ": "automorphism group --in a category"
+            },
+            "comment": ""
+        },
+        "69P9RZU2_b": {
+            "language": "en",
+            "dependencies": {
+                "28KGMW3P": "homotopy of loops"
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}   

@@ -1,0 +1,21 @@
+{
+    "id": "3E5I2718",
+    "name": "category of sets",
+    "dependencies": {
+        "6WZ4C6XN": "set",
+        "4CID84AD": "map {X}\u2192{Y}"
+    },
+    "type": {
+        "7AQ7Q586": "category"
+    },
+    "definitions": {
+        "3E5I2718_a": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": ""
+        }
+    },
+    "equivalences": {
+    }
+}

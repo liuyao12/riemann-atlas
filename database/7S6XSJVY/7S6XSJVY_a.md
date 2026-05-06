@@ -1,0 +1,1 @@
+Let $f: M \to N$ be a homomorphism of modules over a ring $R$, and let $P$ be a $R$-module. Then the *dual* of $f$ (with respect to $P$) is the homomorphism $f^*: \mathrm{Hom}_{R}(N, P) \to \mathrm{Hom}_{R}(M, P)$ given by $f^*(\phi) = \phi \circ f$.
