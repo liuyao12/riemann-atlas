@@ -1,17 +1,18 @@
 {
     "id": "AAAA",
     "name": "",
+    "type": "theorem",
     "dependencies": {
-        "4E41D57C": "real numbers",
+        "4E41D57C": "real numbers"
     },
     "statements": {
         "AAAA_1": {
             "language": "en",
             "dependencies": {
             },
-            "comment": "",
+            "comment": ""
         }
-    }
+    },
     "formula": [
     ],
     "proofs": {
@@ -19,13 +20,13 @@
             "language": "en",
             "dependencies": {
             },
-            "comment": "",
+            "comment": ""
         },
         "AAAA_b": {
             "language": "en",
             "dependencies": {
             },
-            "comment": "",
-        },
-  }
+            "comment": ""
+        }
+    }
 }

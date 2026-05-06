@@ -11,7 +11,7 @@
     },
     "definitions": {
         "6DURJW4B_a": {
-            "language": "en":,
+            "language": "en",
             "dependencies": {
                 "1234": "Euclidean plane",
                 "2345": "parallel lines",
@@ -21,13 +21,13 @@
             "comment": ""
         },
         "6DURJW4B_b": {
-            "language": "en":,
+            "language": "en",
             "dependencies": {
             },
             "comment": ""
         },
         "6DURJW4B_c": {
-            "language": "en":,
+            "language": "en",
             "dependencies": {
             },
             "comment": ""

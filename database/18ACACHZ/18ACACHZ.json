@@ -5,7 +5,7 @@
         "G": "5PGIN6X2:group",
         "k": "4BCNPPIX:field"
     },
-    "template": "group algebra of {G} over {k}"
+    "template": "group algebra of {G} over {k}",
     "type": {
         "482U6RA1": "algebra over {k}"
     },

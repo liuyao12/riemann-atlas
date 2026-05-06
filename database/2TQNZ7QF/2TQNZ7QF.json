@@ -5,7 +5,7 @@
         "R": "7R2CT98Y:ring",
         "n": "63AS5IGZ:natural number"
     },
-    "template": "GL_{n}({R})"
+    "template": "GL_{n}({R})",
     "type": {
         "5PGIN6X2": "group",
         "1234": "algebraic group --over {R}"

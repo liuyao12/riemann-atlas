@@ -16,5 +16,6 @@ For example, the Fundamental Theorem of Calculus may be presented through ration
 
 - `database/` preserves the existing migrated library entries.
 - `docs/architecture.md` describes the new dependency-as-view direction.
+- `docs/legacy-node-audit.md` tracks the first pass over the migrated node schema.
 - `foundations/` is for rigorous grounding paths such as computable analysis, classical real analysis, and formalized mathematics.
 - `views/` is for navigational layers: prerequisite views, abstraction views, historical views, computational views, and proof-assistant views.

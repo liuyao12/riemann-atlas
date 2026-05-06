@@ -6,7 +6,7 @@
         "m": "63AS5IGZ:natural number",
         "n": "63AS5IGZ:natural number"
     },
-    "template": "{m}×{n} matrix over {S}"
+    "template": "{m}x{n} matrix over {S}",
     "type": "definition",
     "definitions": {
         "8M6CAY2R_a": {

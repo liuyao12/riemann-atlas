@@ -6,11 +6,11 @@
         "m": "natural number",
         "n": "natural number",
         "p": "natural number",
-        "A": "8M6CAY2R:{m}×{n} matrix --over {R}",
-        "B": "8M6CAY2R:{n}×{p} matrix --over {R}"
+        "A": "8M6CAY2R:{m}x{n} matrix --over {R}",
+        "B": "8M6CAY2R:{n}x{p} matrix --over {R}"
     },
     "type": {
-        "8M6CAY2R:{m}×{p} matrix --over {R}"
+        "8M6CAY2R": "{m}x{p} matrix --over {R}"
     },
     "statements": {
         "7RG754YE_a": {

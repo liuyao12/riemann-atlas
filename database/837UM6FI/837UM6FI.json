@@ -4,7 +4,7 @@
     "dependencies": {
         "K": "1QTR4G3Q:normed field",
         "U": "38Z73IC0:open subset --of {K}",
-        "f": "4CID84AD": "map {U}\u2192{K}"
+        "f": "4CID84AD:map {U}\u2192{K}"
     },
     "type": {
         "8B9KJ77W": "power series --in {K}"
