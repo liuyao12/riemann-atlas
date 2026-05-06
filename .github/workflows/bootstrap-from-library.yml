@@ -25,6 +25,7 @@ jobs:
           set -euo pipefail
 
           git clone --depth 1 https://github.com/neobourbaki/Library.git /tmp/neobourbaki-library
+          rm -rf /tmp/neobourbaki-library/.git
 
           mkdir -p /tmp/riemann-atlas-framing/docs /tmp/riemann-atlas-framing/foundations /tmp/riemann-atlas-framing/views
           cp /tmp/neobourbaki-library/README.md /tmp/riemann-atlas-framing/docs/legacy-neobourbaki-readme.md
@@ -50,7 +51,6 @@ jobs:
           - `docs/architecture.md` describes the new dependency-as-view direction.
           - `foundations/` is for rigorous grounding paths such as computable analysis, classical real analysis, and formalized mathematics.
           - `views/` is for navigational layers: prerequisite views, abstraction views, historical views, computational views, and proof-assistant views.
-
           EOF
 
           cat > /tmp/riemann-atlas-framing/docs/architecture.md <<'EOF'
@@ -121,5 +121,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Bootstrap Riemann Atlas from Library"
-            git push
+            git push origin HEAD:main
           fi
