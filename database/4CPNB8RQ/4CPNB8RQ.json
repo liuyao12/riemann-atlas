@@ -11,9 +11,9 @@
         "4CPNB8RQ_a": {
             "language": "en",
             "dependencies": {
-                "46G4T8KT": "isomorphism"
+                "0IH1W51Y": "automorphism --of an object --in {C}"
             },
-            "comment": ""
+            "comment": "automorphisms under composition"
         }
     },
     "equivalences": {
