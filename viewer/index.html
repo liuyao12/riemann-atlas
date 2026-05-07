@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Riemann Atlas Viewer</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <aside class="sidebar" aria-label="Node search">
+        <div class="brand-row">
+          <div>
+            <h1>Riemann Atlas</h1>
+            <p id="stats">Loading graph...</p>
+          </div>
+          <button id="refreshButton" class="icon-button" title="Refresh index" aria-label="Refresh index">R</button>
+        </div>
+        <label class="search-box">
+          <span>Search</span>
+          <input id="searchInput" type="search" placeholder="FTC, group, automorphism..." autocomplete="off">
+        </label>
+        <div class="filter-row" role="group" aria-label="Node filters">
+          <button class="segmented active" data-filter="all">All</button>
+          <button class="segmented" data-filter="definition">Definitions</button>
+          <button class="segmented" data-filter="theorem">Theorems</button>
+        </div>
+        <ol id="resultList" class="result-list" aria-label="Search results"></ol>
+      </aside>
+
+      <section class="graph-panel" aria-label="Dependency graph">
+        <div class="graph-toolbar">
+          <div>
+            <p class="eyebrow">Focused Dependency Graph</p>
+            <h2 id="graphTitle">Select a node</h2>
+          </div>
+          <div class="legend">
+            <span><i class="dot selected"></i>Selected</span>
+            <span><i class="dot outgoing"></i>Uses</span>
+            <span><i class="dot incoming"></i>Used by</span>
+          </div>
+        </div>
+        <svg id="graphSvg" role="img" aria-label="Dependency graph visualization"></svg>
+      </section>
+
+      <aside class="inspector" aria-label="Node editor">
+        <div class="inspector-head">
+          <p class="eyebrow">Node</p>
+          <h2 id="nodeName">Nothing selected</h2>
+          <p id="nodeMeta"></p>
+        </div>
+
+        <div class="tab-row" role="tablist" aria-label="Editor tabs">
+          <button class="tab active" data-tab="summary">Summary</button>
+          <button class="tab" data-tab="json">JSON</button>
+          <button class="tab" data-tab="text">Text</button>
+        </div>
+
+        <section id="summaryTab" class="tab-panel active">
+          <dl class="summary-list">
+            <dt>Type</dt>
+            <dd id="summaryType">-</dd>
+            <dt>Direct Dependencies</dt>
+            <dd id="summaryDependencies">-</dd>
+            <dt>Text Files</dt>
+            <dd id="summaryTextFiles">-</dd>
+          </dl>
+        </section>
+
+        <section id="jsonTab" class="tab-panel">
+          <div class="editor-toolbar">
+            <span id="jsonPath">No JSON file</span>
+            <button id="saveJsonButton" class="primary-button">Save JSON</button>
+          </div>
+          <textarea id="jsonEditor" spellcheck="false"></textarea>
+        </section>
+
+        <section id="textTab" class="tab-panel">
+          <div class="editor-toolbar">
+            <select id="textFileSelect" aria-label="Markdown file"></select>
+            <button id="saveTextButton" class="primary-button">Save Text</button>
+          </div>
+          <textarea id="textEditor" spellcheck="false"></textarea>
+        </section>
+
+        <p id="statusLine" class="status-line"></p>
+      </aside>
+    </main>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

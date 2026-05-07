@@ -19,3 +19,4 @@ For example, the Fundamental Theorem of Calculus may be presented through ration
 - `docs/legacy-node-audit.md` tracks the first pass over the migrated node schema.
 - `foundations/` is for rigorous grounding paths such as computable analysis, classical real analysis, and formalized mathematics.
 - `views/` is for navigational layers: prerequisite views, abstraction views, historical views, computational views, and proof-assistant views.
+- `viewer/` contains a local dependency-graph viewer and editor prototype.
