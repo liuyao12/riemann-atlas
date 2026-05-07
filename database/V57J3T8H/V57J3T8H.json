@@ -1,0 +1,28 @@
+{
+    "id": "V57J3T8H",
+    "name": "transformation group --on a set",
+    "dependencies": {
+        "X": "6WZ4C6XN:set"
+    },
+    "template": "transformation group --on {X}",
+    "type": {
+        "7XM484KI": "subset --of bijective maps {X}-> {X}"
+    },
+    "definitions": {
+        "V57J3T8H_a": {
+            "language": "en",
+            "dependencies": {
+                "3HLCRTQW": "bijective map {X}-> {X}"
+            },
+            "comment": "as transformations of a set"
+        },
+        "V57J3T8H_b": {
+            "language": "en",
+            "dependencies": {
+            },
+            "comment": "with extra structure on the underlying object"
+        }
+    },
+    "equivalences": {
+    }
+}
