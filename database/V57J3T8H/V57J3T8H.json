@@ -14,13 +14,15 @@
             "dependencies": {
                 "3HLCRTQW": "bijective map {X}-> {X}"
             },
-            "comment": "as transformations of a set"
+            "comment": "as a collection of bijective maps closed under composition and inverse"
         },
         "V57J3T8H_b": {
             "language": "en",
             "dependencies": {
+                "4P37BYJ5": "symmetric group --on {X}",
+                "1IH0JM2A": "subgroup"
             },
-            "comment": "with extra structure on the underlying object"
+            "comment": "as a subgroup of Sym(X)"
         }
     },
     "equivalences": {
