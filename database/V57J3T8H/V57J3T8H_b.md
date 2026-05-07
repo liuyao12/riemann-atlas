@@ -1,3 +1,3 @@
-A *transformation group* on a set $X$ is a subgroup of the automorphism group $\operatorname{Aut}(X)$ of $X$ in the category of sets; equivalently, a subgroup of the group of all bijective maps $X \to X$ under composition.
+A *transformation group* on an object or space $X$ is a subgroup of the automorphism group $\operatorname{Aut}(X)$ in the chosen setting.
 
-Equivalently, it is a chosen collection of bijections of $X$ that is closed under composition and inverse, with composition as the operation.
+Here $\operatorname{Aut}(X)$ depends on what structure of $X$ is being preserved. For a bare set, it is the group of permutations of $X$; for Euclidean space, it is the group of allowed Euclidean automorphisms, such as isometries when distance is the structure being preserved.
