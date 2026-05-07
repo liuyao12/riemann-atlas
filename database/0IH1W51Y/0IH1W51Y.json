@@ -1,0 +1,23 @@
+{
+    "id": "0IH1W51Y",
+    "name": "automorphism --of an object --in a category",
+    "dependencies": {
+        "C": "7AQ7Q586:category",
+        "x": "object --in {C}"
+    },
+    "template": "automorphism --of {x} in {C}",
+    "type": {
+        "46G4T8KT": "isomorphism {x}-> {x} --in {C}"
+    },
+    "definitions": {
+        "0IH1W51Y_a": {
+            "language": "en",
+            "dependencies": {
+                "46G4T8KT": "isomorphism --in {C}"
+            },
+            "comment": "categorical definition"
+        }
+    },
+    "equivalences": {
+    }
+}
