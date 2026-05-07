@@ -1,3 +1,3 @@
-If $X$ carries extra structure, a *transformation group* on $X$ is often a collection of bijective self-maps of the underlying set of $X$ that preserve the specified structure. The structure should be part of the setting: for example, one may consider distance-preserving transformations of Euclidean space, homeomorphisms of a topological space, diffeomorphisms of a smooth manifold, or automorphisms of an algebraic object.
+A *transformation group* on a set $X$ is a subgroup of the symmetric group $\mathrm{Sym}(X)$ of all bijective maps $X \to X$.
 
-This usage records the concrete layer first: the elements are actual transformations of $X$. The later abstract group axioms capture the formal behavior of composition, identity, and inverse.
+Equivalently, it is a chosen collection of bijections of $X$ that is closed under composition and inverse, with composition as the operation.
