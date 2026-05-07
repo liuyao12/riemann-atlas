@@ -5,6 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Riemann Atlas Viewer</title>
     <link rel="stylesheet" href="./styles.css">
+    <script>
+      window.MathJax = {
+        tex: {
+          inlineMath: [["$", "$"], ["\\(", "\\)"]],
+          displayMath: [["$$", "$$"], ["\\[", "\\]"]],
+        },
+        options: {
+          skipHtmlTags: ["script", "noscript", "style", "textarea", "pre", "code"],
+        },
+      };
+    </script>
+    <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
   </head>
   <body>
     <main class="app-shell">
@@ -78,9 +90,14 @@
         <section id="textTab" class="tab-panel">
           <div class="editor-toolbar">
             <select id="textFileSelect" aria-label="Markdown file"></select>
+            <div class="mode-switch" role="group" aria-label="Text view mode">
+              <button id="previewTextButton" class="segmented active" type="button">Preview</button>
+              <button id="editTextButton" class="segmented" type="button">Edit</button>
+            </div>
             <button id="saveTextButton" class="primary-button">Save Text</button>
           </div>
-          <textarea id="textEditor" spellcheck="false"></textarea>
+          <div id="textPreview" class="markdown-preview"></div>
+          <textarea id="textEditor" class="hidden" spellcheck="false"></textarea>
         </section>
 
         <p id="statusLine" class="status-line"></p>

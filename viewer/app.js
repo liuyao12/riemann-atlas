@@ -4,6 +4,7 @@ const state = {
   selectedId: null,
   filter: "all",
   activeTextPath: null,
+  textMode: "preview",
 };
 
 const el = {
@@ -22,6 +23,9 @@ const el = {
   jsonEditor: document.querySelector("#jsonEditor"),
   saveJsonButton: document.querySelector("#saveJsonButton"),
   textFileSelect: document.querySelector("#textFileSelect"),
+  previewTextButton: document.querySelector("#previewTextButton"),
+  editTextButton: document.querySelector("#editTextButton"),
+  textPreview: document.querySelector("#textPreview"),
   textEditor: document.querySelector("#textEditor"),
   saveTextButton: document.querySelector("#saveTextButton"),
   statusLine: document.querySelector("#statusLine"),
@@ -225,6 +229,123 @@ function truncate(text, max) {
   return text.length <= max ? text : `${text.slice(0, max - 3)}...`;
 }
 
+function escapeHtml(text) {
+  return text
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;");
+}
+
+function inlineMarkdown(text) {
+  return escapeHtml(text)
+    .replace(/`([^`]+)`/g, "<code>$1</code>")
+    .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+    .replace(/\*([^*]+)\*/g, "<em>$1</em>");
+}
+
+function markdownToHtml(markdown) {
+  const lines = markdown.replace(/\r\n/g, "\n").split("\n");
+  const html = [];
+  let paragraph = [];
+  let listOpen = false;
+  let codeOpen = false;
+  let codeLines = [];
+
+  const closeList = () => {
+    if (!listOpen) return;
+    html.push("</ul>");
+    listOpen = false;
+  };
+  const closeParagraph = () => {
+    if (!paragraph.length) return;
+    html.push(`<p>${paragraph.join("<br>")}</p>`);
+    paragraph = [];
+  };
+
+  for (const line of lines) {
+    if (line.trim().startsWith("```")) {
+      if (codeOpen) {
+        html.push(`<pre><code>${escapeHtml(codeLines.join("\n"))}</code></pre>`);
+        codeOpen = false;
+        codeLines = [];
+      } else {
+        closeParagraph();
+        closeList();
+        codeOpen = true;
+      }
+      continue;
+    }
+
+    if (codeOpen) {
+      codeLines.push(line);
+      continue;
+    }
+
+    if (!line.trim()) {
+      closeParagraph();
+      closeList();
+      continue;
+    }
+
+    const heading = line.match(/^(#{1,6})\s+(.+)$/);
+    if (heading) {
+      closeParagraph();
+      closeList();
+      const level = heading[1].length;
+      html.push(`<h${level}>${inlineMarkdown(heading[2])}</h${level}>`);
+      continue;
+    }
+
+    const bullet = line.match(/^\s*[-*]\s+(.+)$/);
+    if (bullet) {
+      closeParagraph();
+      if (!listOpen) {
+        html.push("<ul>");
+        listOpen = true;
+      }
+      html.push(`<li>${inlineMarkdown(bullet[1])}</li>`);
+      continue;
+    }
+
+    closeList();
+    paragraph.push(inlineMarkdown(line));
+  }
+
+  if (codeOpen) html.push(`<pre><code>${escapeHtml(codeLines.join("\n"))}</code></pre>`);
+  closeParagraph();
+  closeList();
+
+  return html.join("\n") || "<p class=\"empty-text\">No text file selected.</p>";
+}
+
+async function renderTextPreview() {
+  el.textPreview.innerHTML = markdownToHtml(el.textEditor.value);
+  try {
+    if (window.MathJax?.typesetPromise) {
+      await window.MathJax.typesetPromise([el.textPreview]);
+    } else if (window.MathJax?.startup?.promise) {
+      await window.MathJax.startup.promise;
+      await window.MathJax.typesetPromise([el.textPreview]);
+    } else {
+      window.setTimeout(() => {
+        if (window.MathJax?.typesetPromise && state.textMode === "preview") renderTextPreview();
+      }, 150);
+    }
+  } catch (error) {
+    setStatus(`LaTeX render failed: ${error.message}`);
+  }
+}
+
+function setTextMode(mode, renderPreview = true) {
+  state.textMode = mode;
+  el.previewTextButton.classList.toggle("active", mode === "preview");
+  el.editTextButton.classList.toggle("active", mode === "edit");
+  el.textPreview.classList.toggle("hidden", mode !== "preview");
+  el.textEditor.classList.toggle("hidden", mode !== "edit");
+  if (mode === "preview" && renderPreview) renderTextPreview();
+}
+
 async function loadEditors(node) {
   el.jsonPath.textContent = node.path;
   el.jsonEditor.value = await apiText(`/api/file?path=${encodeURIComponent(node.path)}`);
@@ -241,6 +362,8 @@ async function loadEditors(node) {
     el.textFileSelect.value = state.activeTextPath;
     el.textEditor.value = await apiText(`/api/file?path=${encodeURIComponent(state.activeTextPath)}`);
   }
+  setTextMode(state.textMode, false);
+  await renderTextPreview();
 }
 
 async function saveFile(filePath, content) {
@@ -269,7 +392,11 @@ document.querySelectorAll(".tab").forEach((tab) => {
 el.textFileSelect.addEventListener("change", async () => {
   state.activeTextPath = el.textFileSelect.value;
   el.textEditor.value = await apiText(`/api/file?path=${encodeURIComponent(state.activeTextPath)}`);
+  await renderTextPreview();
 });
+
+el.previewTextButton.addEventListener("click", () => setTextMode("preview"));
+el.editTextButton.addEventListener("click", () => setTextMode("edit"));
 
 el.saveJsonButton.addEventListener("click", async () => {
   const node = state.nodesById.get(state.selectedId);
