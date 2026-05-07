@@ -1,5 +1,3 @@
-A *group* is a set $G$ of bijective maps $X \to X$ on some set $X$ such that
+Transformation groups are motivating concrete examples for the abstract notion of a group. A transformation group on a set $X$ is a collection of bijective maps $X \to X$ closed under identity, composition, and inverse; with composition as the operation, it satisfies the abstract group axioms.
 
-- the identity map is in $G$;
-- $G$ is closed under composition;
-- for any $g\in G$, its inverse $g^{-1}: X \to X$ is also in $G$.
+Historically, this is one source of the abstraction: one first studies concrete transformations of a set or space, and later keeps only the formal laws shared by those examples.
