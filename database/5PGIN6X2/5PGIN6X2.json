@@ -19,7 +19,7 @@
         "5PGIN6X2_b": {
             "language": "en",
             "dependencies": {
-                "V57J3T8H": "transformation group --on a set"
+                "V57J3T8H": "transformation group --on an object"
             },
             "comment": "transformation groups as motivating examples"
         },
